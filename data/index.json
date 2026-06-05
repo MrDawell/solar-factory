@@ -1,0 +1,290 @@
+{
+    "SLR-20260603-001": {
+        "business_name": "Gujarat Solar Power",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "batch_date": "2026-06-03",
+        "status": "SUCCESS",
+        "path": "data/2026-06-03/SLR-20260603-001"
+    },
+    "SLR-20260603-002": {
+        "business_name": "Punjab Clean Tech",
+        "city": "Amritsar",
+        "state": "Punjab",
+        "batch_date": "2026-06-03",
+        "status": "SUCCESS",
+        "path": "data/2026-06-03/SLR-20260603-002"
+    },
+    "SLR-20260602-201": {
+        "business_name": "ABhiram solar",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-201"
+    },
+    "SLR-20260602-202": {
+        "business_name": "AKN Power (India) Pvt. Ltd",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-202"
+    },
+    "SLR-20260602-203": {
+        "business_name": "Anya Green Energy Solution",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-203"
+    },
+    "SLR-20260602-204": {
+        "business_name": "babaaji solar & tools pvt ltd",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-204"
+    },
+    "SLR-20260602-205": {
+        "business_name": "GREEN SHINE SOLAR (second listing)",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-205"
+    },
+    "SLR-20260602-206": {
+        "business_name": "Green Shine Solar",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-206"
+    },
+    "SLR-20260602-207": {
+        "business_name": "Greenland solar",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-207"
+    },
+    "SLR-20260602-208": {
+        "business_name": "GreenLantern energy",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-208"
+    },
+    "SLR-20260602-209": {
+        "business_name": "Hariom Traders",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-209"
+    },
+    "SLR-20260602-210": {
+        "business_name": "Indrawati solar solution",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-210"
+    },
+    "SLR-20260602-211": {
+        "business_name": "KARTIK SOLAR//UTL SOLAR//LOOM SOLAR",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-211"
+    },
+    "SLR-20260602-212": {
+        "business_name": "Lallan solar",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-212"
+    },
+    "SLR-20260602-213": {
+        "business_name": "LOOM SOLAR // UTL SOLAR // distributor",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-213"
+    },
+    "SLR-20260602-214": {
+        "business_name": "M2M SOLAR POINT",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-214"
+    },
+    "SLR-20260602-215": {
+        "business_name": "Mahadev Enterprises [Wholesale]",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-215"
+    },
+    "SLR-20260602-216": {
+        "business_name": "Matri Shree Green Solar",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-216"
+    },
+    "SLR-20260602-217": {
+        "business_name": "MSP AND COMPANY",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-217"
+    },
+    "SLR-20260602-218": {
+        "business_name": "Patel Solar Power System",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-218"
+    },
+    "SLR-20260602-219": {
+        "business_name": "PRADHA SOLAR GENERATION",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-219"
+    },
+    "SLR-20260602-220": {
+        "business_name": "ProjectEEZ Solar Power System",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-220"
+    },
+    "SLR-20260602-221": {
+        "business_name": "PURVANCHAL GREEN ENERGY",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-221"
+    },
+    "SLR-20260602-222": {
+        "business_name": "Shri Babaji Power & Solar Solution LLP",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-222"
+    },
+    "SLR-20260602-223": {
+        "business_name": "SKS Solar Tech Solutions",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-223"
+    },
+    "SLR-20260602-224": {
+        "business_name": "SMART SOLAR SOLUTIONS",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-224"
+    },
+    "SLR-20260602-225": {
+        "business_name": "Solar tek india Varanasi",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-225"
+    },
+    "SLR-20260602-226": {
+        "business_name": "Sri Krishna & Company",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-226"
+    },
+    "SLR-20260602-227": {
+        "business_name": "Sun Ray System",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-227"
+    },
+    "SLR-20260602-228": {
+        "business_name": "Udita Enterprises (solar energy)",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-228"
+    },
+    "SLR-20260602-229": {
+        "business_name": "Varanasi Solar Panel",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-229"
+    },
+    "SLR-20260602-230": {
+        "business_name": "Varanasi Solar Tech",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-230"
+    },
+    "SLR-20260602-231": {
+        "business_name": "Wisdom Tree Solar Solution",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-231"
+    },
+    "SLR-20260602-001": {
+        "business_name": "Sharma Solar Solutions",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-001"
+    },
+    "SLR-20260602-002": {
+        "business_name": "Deccan Solar Tech",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-002"
+    },
+    "SLR-20260602-003": {
+        "business_name": "Karnataka Green Energy",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "batch_date": "2026-06-02",
+        "status": "SUCCESS",
+        "path": "data/2026-06-02/SLR-20260602-003"
+    }
+}

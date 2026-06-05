@@ -1,0 +1,42 @@
+2026-06-02 02:20:21,408 - INFO - Starting Solar Website Factory Pipeline for batch: 2026-06-03
+2026-06-02 02:20:21,408 - INFO - Leads CSV source: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-03\leads\leads.csv
+2026-06-02 02:20:21,408 - INFO - Found 2 leads to process.
+2026-06-02 02:20:21,408 - INFO - [1/2] Processing: SLR-20260603-001 (Gujarat Solar Power)
+2026-06-02 02:20:21,426 - INFO - Successfully generated website for SLR-20260603-001
+2026-06-02 02:20:21,426 - INFO - [2/2] Processing: SLR-20260603-002 (Punjab Clean Tech)
+2026-06-02 02:20:21,442 - INFO - Successfully generated website for SLR-20260603-002
+2026-06-02 02:20:21,442 - INFO - Updating Global Search Index...
+2026-06-02 02:20:21,444 - INFO - ============================================================
+2026-06-02 02:20:21,444 - INFO - Pipeline finished in 0.0358 seconds!
+2026-06-02 02:20:21,444 - INFO - Total Leads Processed: 2
+2026-06-02 02:20:21,444 - INFO - Total Websites Generated: 2
+2026-06-02 02:20:21,444 - INFO - Logs: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-03\logs\pipeline.log
+2026-06-02 02:20:21,444 - INFO - ============================================================
+2026-06-02 02:46:43,097 - INFO - Starting Solar Website Factory Pipeline for batch: 2026-06-03
+2026-06-02 02:46:43,098 - INFO - Leads CSV source: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-03\leads\leads.csv
+2026-06-02 02:46:43,098 - INFO - Found 2 leads to process.
+2026-06-02 02:46:43,098 - INFO - [1/2] Processing: SLR-20260603-001 (Gujarat Solar Power)
+2026-06-02 02:46:43,149 - INFO - Successfully generated website for SLR-20260603-001
+2026-06-02 02:46:43,149 - INFO - [2/2] Processing: SLR-20260603-002 (Punjab Clean Tech)
+2026-06-02 02:46:43,178 - INFO - Successfully generated website for SLR-20260603-002
+2026-06-02 02:46:43,178 - INFO - Updating Global Search Index...
+2026-06-02 02:46:43,182 - INFO - ============================================================
+2026-06-02 02:46:43,182 - INFO - Pipeline finished in 0.0841 seconds!
+2026-06-02 02:46:43,182 - INFO - Total Leads Processed: 2
+2026-06-02 02:46:43,182 - INFO - Total Websites Generated: 2
+2026-06-02 02:46:43,182 - INFO - Logs: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-03\logs\pipeline.log
+2026-06-02 02:46:43,182 - INFO - ============================================================
+2026-06-02 14:37:29,138 - INFO - Starting Solar Website Factory Pipeline for batch: 2026-06-03
+2026-06-02 14:37:29,139 - INFO - Leads CSV source: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-03\leads\leads.csv
+2026-06-02 14:37:29,140 - INFO - Found 2 leads to process.
+2026-06-02 14:37:29,140 - INFO - [1/2] Processing: SLR-20260603-001 (Gujarat Solar Power)
+2026-06-02 14:37:29,180 - INFO - Successfully generated website for SLR-20260603-001
+2026-06-02 14:37:29,180 - INFO - [2/2] Processing: SLR-20260603-002 (Punjab Clean Tech)
+2026-06-02 14:37:29,230 - INFO - Successfully generated website for SLR-20260603-002
+2026-06-02 14:37:29,230 - INFO - Updating Global Search Index...
+2026-06-02 14:37:29,257 - INFO - ============================================================
+2026-06-02 14:37:29,257 - INFO - Pipeline finished in 0.1160 seconds!
+2026-06-02 14:37:29,257 - INFO - Total Leads Processed: 2
+2026-06-02 14:37:29,257 - INFO - Total Websites Generated: 2
+2026-06-02 14:37:29,257 - INFO - Logs: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-03\logs\pipeline.log
+2026-06-02 14:37:29,257 - INFO - ============================================================

@@ -1,0 +1,13 @@
+{
+    "batch_date": "2026-06-02",
+    "run_timestamp": "2026-06-02T02:17:38.704485",
+    "leads_processed": 3,
+    "websites_compiled": 3,
+    "timings": {
+        "enrichment_seconds": 0.0021,
+        "compilation_seconds": 0.0921,
+        "total_pipeline_seconds": 0.0947
+    },
+    "average_speed_per_site_seconds": 0.0307,
+    "status": "SUCCESS"
+}

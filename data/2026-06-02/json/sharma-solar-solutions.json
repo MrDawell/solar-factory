@@ -1,0 +1,75 @@
+{
+    "business_name": "Sharma Solar Solutions",
+    "owner_name": "Rajesh Sharma",
+    "slug": "sharma-solar-solutions",
+    "location": {
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "address": "12, Malviya Nagar, Jaipur, Rajasthan 302017"
+    },
+    "contact": {
+        "phone": "+91 98765 43210",
+        "email": "contact@sharmasolar.in",
+        "whatsapp": "+919876543210"
+    },
+    "branding": {
+        "primary_color": "#0284c7",
+        "secondary_color": "#ea580c",
+        "accent_color": "#16a34a",
+        "logo_text": "Sharma Solar",
+        "hero_bg_gradient_start": "#0f172a",
+        "hero_bg_gradient_end": "#1e293b"
+    },
+    "copywriting": {
+        "hero_title": "Trusted Rooftop Solar Installer in Jaipur",
+        "hero_subtitle": "Lower your JVVNL electricity bills with heat-resistant solar systems custom-designed for Jaipur homes, commercial buildings, and schools.",
+        "about_title": "Empowering Jaipur with High-Yield Solar Energy",
+        "about_text": "At Sharma Solar Solutions, led by Rajesh Sharma, we help Jaipur residents and businesses beat rising Rajasthan electricity rates. We design and install high-generation solar systems in Malviya Nagar, Vaishali Nagar, Mansarovar, and Sitapura. We take care of all JVVNL net-metering paperwork and central subsidy processing, ensuring maximum return on your investment.",
+        "cta_text": "Get Free Site Assessment"
+    },
+    "metrics": {
+        "estimated_annual_savings": "₹76,500",
+        "co2_reduced_tons": "9.6",
+        "payback_years": "5.8",
+        "solar_panels_needed": "16 - 24",
+        "capacity_kw": "8.0 kW"
+    },
+    "services": [
+        {
+            "title": "Residential Solar Rooftop",
+            "description": "Lower your monthly JVVNL bills. Perfect for Jaipur homes and residential villas looking to secure government subsidies with complete net-metering installations."
+        },
+        {
+            "title": "Commercial & Industrial Solar",
+            "description": "Reduce overheads and claim tax benefits with customized solar arrays for schools, hotels, offices, or manufacturing units in Sitapura Industrial Area."
+        },
+        {
+            "title": "Solar Water Pumps",
+            "description": "Grid-independent solar pumps for farm tubewells around Chomu and rural Jaipur districts, ensuring steady irrigation without power cuts."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Aditya Chaturvedi",
+            "role": "Homeowner, Vaishali Nagar",
+            "quote": "Sharma Solar Solutions installed an 8kW system for our home in Vaishali Nagar. Our monthly JVVNL bill went from ₹8,500 to just ₹650. Rajesh and his team were highly professional and finished everything within 10 days."
+        },
+        {
+            "name": "Suresh Singhal",
+            "role": "Director, Singhal Textiles (Sitapura)",
+            "quote": "Running a printing facility in Sitapura has high power requirements. Sharma Solar Solutions designed and set up a 30kW rooftop solar system. It cut our bills in half and we have already claimed our tax depreciation benefits."
+        }
+    ],
+    "faqs": [
+        {
+            "question": "What government subsidy is available for residential solar in Jaipur?",
+            "question_localized": "What government subsidy is available for residential solar in Jaipur?",
+            "answer": "Under the national PM Surya Ghar portal, homeowners in Rajasthan can claim up to ₹78,000 in central subsidies for a 3kW system. Our team manages the entire application and inspection documentation for you."
+        },
+        {
+            "question": "Do solar panels perform well during Jaipur's extreme summer heat?",
+            "question_localized": "Do solar panels perform well during Jaipur's extreme summer heat?",
+            "answer": "Yes. We source high-efficiency Tier-1 monocrystalline half-cut panels that feature a low temperature coefficient. They are specifically engineered to maintain stable power generation even in peak summer temperatures."
+        }
+    ]
+}

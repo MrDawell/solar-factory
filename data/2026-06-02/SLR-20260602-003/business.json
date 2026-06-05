@@ -1,0 +1,180 @@
+{
+    "business_id": "SLR-20260602-003",
+    "business_name": "Karnataka Green Energy",
+    "slug": "karnataka-green-energy",
+    "identity": {
+        "business_name": "Karnataka Green Energy",
+        "owner_name": "Kiran Kumar",
+        "logo_text": "Karnataka Green"
+    },
+    "contact": {
+        "phone": "+91 80123 45678",
+        "whatsapp": "918012345678",
+        "email": "hello@karnatakagreen.com",
+        "business_hours": "Mon - Sat: 10:00 AM - 7:00 PM"
+    },
+    "location": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "address": "88, Jayanagar 4th Block, Bangalore, Karnataka 560011",
+        "map_query": "Karnataka%20Green%20Energy,%20Bangalore,%20Karnataka"
+    },
+    "branding": {
+        "logo_svg": "<svg class=\"w-8 h-8 flex-shrink-0\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <defs>\n                <linearGradient id=\"grad_954254273295079479\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n                    <stop offset=\"0%\" stop-color=\"#1e3a8a\" />\n                    <stop offset=\"100%\" stop-color=\"#f59e0b\" />\n                </linearGradient>\n            </defs>\n            <circle cx=\"16\" cy=\"16\" r=\"14\" fill=\"url(#grad_954254273295079479)\" />\n            <circle cx=\"16\" cy=\"16\" r=\"11\" fill=\"#ffffff\" />\n            <text x=\"50%\" y=\"58%\" dominant-baseline=\"middle\" text-anchor=\"middle\" font-family=\"'Montserrat', 'Inter', sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"url(#grad_954254273295079479)\">K</text>\n        </svg>",
+        "colors": {
+            "primary": "#1e3a8a",
+            "secondary": "#f59e0b",
+            "tertiary": "#10b981",
+            "primary_container": "#1e3a8a",
+            "secondary_container": "#fffbeb",
+            "background": "#f8fafc",
+            "surface": "#ffffff"
+        },
+        "fonts": {
+            "title": "Outfit",
+            "body": "Plus Jakarta Sans"
+        },
+        "hero_image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCGYM46nI_IzuF_YX3nN6kxxxhFLnQ4e7WZ0JpgIc9ld0iiZa6XGCfX6r94OHr7mkbe13lrzvew5gRG91dATiC2kCXTlWLmiZn9cEMpZhGuqiIfj5MbVYu455uhmoicVGp9dABF3q5Q1UEFDAEKh2y2Uol-gWoX9owzRjWhQOZVizZckWYMSTlYBWQe_X95tATKLmHDOXAqC-rXo5ROfPjFJe5IrU0q--z3sahOqLniaG9lk8MocwlXHdUcq7yZwVbbPT3OuU93FrV3"
+    },
+    "hero": {
+        "badge": "Verified Local Solar Expert",
+        "headline": "Trusted Rooftop Solar Installer in Bangalore",
+        "subheadline": "Save on monthly BESCOM bills with high-efficiency solar systems designed for Bangalore homes, apartments, and commercial rooftops.",
+        "background_image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCGYM46nI_IzuF_YX3nN6kxxxhFLnQ4e7WZ0JpgIc9ld0iiZa6XGCfX6r94OHr7mkbe13lrzvew5gRG91dATiC2kCXTlWLmiZn9cEMpZhGuqiIfj5MbVYu455uhmoicVGp9dABF3q5Q1UEFDAEKh2y2Uol-gWoX9owzRjWhQOZVizZckWYMSTlYBWQe_X95tATKLmHDOXAqC-rXo5ROfPjFJe5IrU0q--z3sahOqLniaG9lk8MocwlXHdUcq7yZwVbbPT3OuU93FrV3",
+        "image_alt": "Solar energy installer rooftop in Bangalore"
+    },
+    "trust_signals": [
+        {
+            "icon": "solar_power",
+            "headline": "Local BESCOM Experts",
+            "description": "End-to-end handling of solar net-metering approvals and central government subsidy applications."
+        },
+        {
+            "icon": "workspace_premium",
+            "headline": "100+ Systems Installed",
+            "description": "Reliable solar installations for independent houses and villa layouts across Bangalore."
+        },
+        {
+            "icon": "support_agent",
+            "headline": "25-Year Performance Warranty",
+            "description": "We use only high-efficiency Tier-1 monocrystalline panels with local support in Jayanagar."
+        }
+    ],
+    "plans": [
+        {
+            "title": "2-3 BHK Flat Layout",
+            "original_bill": "₹3,500",
+            "new_bill": "₹1,000",
+            "savings_pct": 70,
+            "features": [
+                "3kW System Capacity",
+                "Net Metering Documentation Support",
+                "Surya Ghar Subsidy Eligible"
+            ],
+            "cta_text": "Check Home Savings",
+            "popular": false
+        },
+        {
+            "title": "Independent House Plan",
+            "original_bill": "₹8,000",
+            "new_bill": "₹1,800",
+            "savings_pct": 77,
+            "features": [
+                "4.5 kW Sized for Bangalore roofs",
+                "Grid Tie Inverter with Mobile Monitoring",
+                "Zero Upfront Maintenance Scheme"
+            ],
+            "cta_text": "Get Free Site Assessment",
+            "popular": true
+        },
+        {
+            "title": "Commercial / Small Shop",
+            "original_bill": "₹15,000",
+            "new_bill": "₹6,000",
+            "savings_pct": 60,
+            "features": [
+                "10kW Rooftop Panel Array",
+                "Commercial Net Meter Setup",
+                "Tax Benefits & Accelerated Depreciation"
+            ],
+            "cta_text": "Request Custom Proposal",
+            "popular": false
+        }
+    ],
+    "services_section": {
+        "headline": "Solar Solutions Tailored For You",
+        "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDYc8O--WnGs6bwpYRp2Tq0JiFbtfSVbwIk6hWhqu0BnfJ9IeZnvknZLvdq_YKQRpQdxfqtEpQ4DdFmpFRQ6p2ZCdAPhTdYOsTH9Qk_a_XMuTqlwjHvpAtzbwRT3HejKxhyHHraMfsXr1WO_kBEFCiOtFMLh930awQdlpGlHwaJr_rtQBI8TFfRGJik2go9Jg3JLgwbDLfL-xpByu7498gVym1eGkeArnW0nZt1ETPWTaV6lrFgxMg4sL28CjWtMsH-ZpUNaeseBJrp",
+        "image_alt": "Solar panels design assessments and engineering"
+    },
+    "services": [
+        {
+            "title": "Residential Solar Rooftop",
+            "description": "Lower your monthly BESCOM bill. Ideal for Bangalore homes and villas looking to claim central solar subsidies with complete net-metering approvals."
+        },
+        {
+            "title": "Commercial & Industrial Solar",
+            "description": "Reduce operational costs and claim 40% accelerated depreciation tax benefits for your office, retail outlet, or factory in Peenya or Whitefield."
+        },
+        {
+            "title": "Solar Water Pumps",
+            "description": "Reliable grid-independent solar pumps for farms and lands around rural Bangalore, ensuring uninterrupted watering and crop irrigation."
+        }
+    ],
+    "projects": [
+        {
+            "title": "5kW Home Rooftop in Jayanagar",
+            "subtitle": "BESCOM Connected • Saves ₹45,900/yr",
+            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBtz5ZHKM1VLtQYXYsR8eSj41P8R8j765GVpFkcsV3-kcfAdOWCiarC2mx9BVtpFKWvAAo3GsmvpIky8PgaC2_iZMEXejLIQ4NoB6AeBjjra-ciCYICIM3nroKB9Wja7B0wP40kN9k9br1YUhuRuEchrscfuJgnLEzWvNfN3nRr3EhGRby0pUVhowfZegf3UeQH1Z3mvdeLLiS9S9Wg-J6SDftFiQmrbHuSqpmgDPGN7xl1jHa9YnhrZPqsTjciFkemrwgbNbAO9Bhm"
+        },
+        {
+            "title": "15kW Commercial Solar in Peenya",
+            "subtitle": "Factory Installation • 50% Bill Reduction",
+            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAOTiyARPLwS66rRHbgxgHTnrB6ldirzmQyamKlgY8ixmzHIxZT6lHEnvw4Tsbrl7bqsvn1LQ2_UTyQ_Gm2sFLUTrFASfbCDqyQUQ1L3oMDLr8OuNkr_jwE4vZW0GRZ1SsUfepdRK7g5g5W2ZXV7PuJIha90wE-oZJBrtKQFjy5GKVsuTc0_VZHfODdPf-xD4jaOC05zyT_8T-YkIoQPx7KXoGLS1EISeOAV81K5veV5P5pWAovMgGX2eSc7LyGY3Y-Jj3y_hYJmOvB"
+        }
+    ],
+    "faq": [
+        {
+            "question": "How much subsidy can I get for residential solar in Bangalore?",
+            "answer": "Under the PM Surya Ghar scheme, you can get a central subsidy of up to ₹78,000 for a 3kW system. Our team handles the entire documentation and portal registration process for you."
+        },
+        {
+            "question": "How long does BESCOM net metering approval take?",
+            "answer": "BESCOM approvals and net meter installation typically take 3 to 4 weeks. Our team coordinates directly with BESCOM officers to manage all applications and liaison approvals."
+        }
+    ],
+    "reputation": {
+        "rating": 4.8,
+        "reviews_count": "15+"
+    },
+    "calculator_config": {
+        "residential_factor": 1200,
+        "commercial_factor": 1000,
+        "factory_factor": 800
+    },
+    "metrics": {
+        "estimated_annual_savings": "₹45,900",
+        "co2_reduced_tons": "5.4",
+        "payback_years": "4.7",
+        "solar_panels_needed": "9 - 13",
+        "capacity_kw": "4.5 kW"
+    },
+    "copywriting": {
+        "hero_title": "Trusted Rooftop Solar Installer in Bangalore",
+        "hero_subtitle": "Save on monthly BESCOM bills with high-efficiency solar systems designed for Bangalore homes, apartments, and commercial rooftops.",
+        "about_title": "Helping Bangalore Homes & Businesses Reduce Electricity Costs",
+        "about_text": "At Karnataka Green Energy, led by Kiran Kumar, we understand the rising power costs in Karnataka. We design and install durable, subsidy-approved solar systems for property owners in Jayanagar, Koramangala, Indiranagar, and Peenya. We handle everything from BESCOM net-metering approvals to government solar subsidy processing, ensuring complete peace of mind and long-term savings.",
+        "cta_text": "Get Free Site Assessment"
+    },
+    "testimonials": [
+        {
+            "name": "Amit Sharma",
+            "role": "Homeowner, Jayanagar 4th Block",
+            "quote": "Karnataka Green Energy installed a 5kW system for our home in Jayanagar. Our bill fell from ₹8,000 a month to just ₹600! Kiran and his team handled the entire BESCOM net-metering paperwork and the government subsidy."
+        },
+        {
+            "name": "Rajesh Patel",
+            "role": "Owner, Patel Industrial Fabrication (Peenya)",
+            "quote": "Industrial power rates in Peenya were hurting our margins. Karnataka Green designed a customized 15kW rooftop array. Our commercial power bills dropped by 50% from the first month itself."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+  "identity": {
+    "business_name": "Hariom Traders",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "service_areas": [
+      "Varanasi"
+    ],
+    "phone": "087269 09990",
+    "whatsapp": null,
+    "email": null,
+    "address": null,
+    "google_maps_query": "Hariom Traders, Varanasi, Uttar Pradesh"
+  },
+  "hero": {
+    "badge": "Rooftop solar in Varanasi",
+    "headline": "Hariom Traders – Residential & small-commercial solar panel dealer/installer in Varanasi",
+    "subheadline": "Tata-authorized solar dealer trusted in Paharia/Sarnath belt. Since 2010",
+    "primary_cta": "WhatsApp Your Bill",
+    "secondary_cta": "Request Site Visit"
+  },
+  "reputation": {
+    "rating": 4.9,
+    "review_count": 48
+  },
+  "trust_signals": [
+    {
+      "icon": "rating",
+      "title": "Well-rated local installer",
+      "description": "Google rating 4.9 with 48 customer reviews in Varanasi."
+    },
+    {
+      "icon": "trust",
+      "title": "Local trust",
+      "description": "Long-established Tata panel dealer, strong local reputation"
+    }
+  ],
+  "services": [
+    {
+      "title": "Solar panel supply",
+      "description": "Solar panel supply for homeowners, small shops, local businesses in paharia/sarnath"
+    },
+    {
+      "title": "rooftop systems",
+      "description": "rooftop systems for homeowners, small shops, local businesses in paharia/sarnath"
+    },
+    {
+      "title": "on-site survey and installation",
+      "description": "on-site survey and installation for homeowners, small shops, local businesses in paharia/sarnath"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Home rooftop solar setup",
+      "location": "Varanasi",
+      "description": "Typical rooftop solar installation for a local home in Varanasi, designed to cut monthly electricity bills.",
+      "monthly_savings": "Lower monthly electricity bills"
+    },
+    {
+      "title": "Small business rooftop plant",
+      "location": "Varanasi",
+      "description": "Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.",
+      "monthly_savings": "Reduced daytime power cost"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How does the PM Surya Ghar Muft Bijli Yojana subsidy work?",
+      "answer": "PM Surya Ghar Muft Bijli Yojana offers central financial assistance for eligible residential rooftop solar systems. Subsidy slabs depend on system size and sanctioned load. We help you understand the current scheme details and apply through the official portal where applicable."
+    },
+    {
+      "question": "Will you help with net metering paperwork?",
+      "answer": "Yes, we guide you through the net metering process with the local DISCOM in Uttar Pradesh, including basic application support and documentation guidance."
+    },
+    {
+      "question": "How long do solar panels typically last?",
+      "answer": "Most quality solar panels come with performance warranties of around 25 years. Panels can continue generating after that, with gradual reduction in output over time."
+    },
+    {
+      "question": "Do solar panels work during monsoon and cloudy days?",
+      "answer": "Solar panels generate power from light, not heat. Output is lower on very cloudy or rainy days, but systems are designed considering annual sunshine so that overall yearly generation remains strong."
+    },
+    {
+      "question": "What kind of maintenance do rooftop solar systems need?",
+      "answer": "Basic maintenance usually means periodic cleaning of the panels and occasional checks of wiring, mounting structures and inverter status. We can guide you on simple cleaning routines and service options."
+    },
+    {
+      "question": "What affects the payback period for rooftop solar?",
+      "answer": "Payback depends on your electricity tariff, system size, consumption pattern, subsidy eligibility and financing, if any. We give an estimated payback range after reviewing your recent electricity bills."
+    }
+  ],
+  "seo": {
+    "meta_title": "Hariom Traders | Rooftop Solar in Varanasi",
+    "meta_description": "Hariom Traders provides rooftop solar solutions in Varanasi, helping homes and businesses install solar and understand subsidy and net metering support."
+  },
+  "contact": {
+    "business_hours": null
+  },
+  "branding": {
+    "logo_text": "Hariom Traders",
+    "hero_image_query": "rooftop solar panels on homes and shops in Varanasi India"
+  }
+}

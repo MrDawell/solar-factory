@@ -1,0 +1,75 @@
+{
+    "business_name": "Karnataka Green Energy",
+    "owner_name": "Kiran Kumar",
+    "slug": "karnataka-green-energy",
+    "location": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "address": "88, Jayanagar 4th Block, Bangalore, Karnataka 560011"
+    },
+    "contact": {
+        "phone": "+91 80123 45678",
+        "email": "hello@karnatakagreen.com",
+        "whatsapp": "+918012345678"
+    },
+    "branding": {
+        "primary_color": "#1e3a8a",
+        "secondary_color": "#f59e0b",
+        "accent_color": "#10b981",
+        "logo_text": "Karnataka Green",
+        "hero_bg_gradient_start": "#0f172a",
+        "hero_bg_gradient_end": "#1e293b"
+    },
+    "copywriting": {
+        "hero_title": "Trusted Rooftop Solar Installer in Bangalore",
+        "hero_subtitle": "Save on monthly BESCOM bills with high-efficiency solar systems designed for Bangalore homes, apartments, and commercial rooftops.",
+        "about_title": "Helping Bangalore Homes & Businesses Reduce Electricity Costs",
+        "about_text": "At Karnataka Green Energy, led by Kiran Kumar, we understand the rising power costs in Karnataka. We design and install durable, subsidy-approved solar systems for property owners in Jayanagar, Koramangala, Indiranagar, and Peenya. We handle everything from BESCOM net-metering approvals to government solar subsidy processing, ensuring complete peace of mind and long-term savings.",
+        "cta_text": "Get Free Site Assessment"
+    },
+    "metrics": {
+        "estimated_annual_savings": "₹45,900",
+        "co2_reduced_tons": "5.4",
+        "payback_years": "4.7",
+        "solar_panels_needed": "9 - 13",
+        "capacity_kw": "4.5 kW"
+    },
+    "services": [
+        {
+            "title": "Residential Solar Rooftop",
+            "description": "Lower your monthly BESCOM bill. Ideal for Bangalore homes and villas looking to claim central solar subsidies with complete net-metering approvals."
+        },
+        {
+            "title": "Commercial & Industrial Solar",
+            "description": "Reduce operational costs and claim 40% accelerated depreciation tax benefits for your office, retail outlet, or factory in Peenya or Whitefield."
+        },
+        {
+            "title": "Solar Water Pumps",
+            "description": "Reliable grid-independent solar pumps for farms and lands around rural Bangalore, ensuring uninterrupted watering and crop irrigation."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Amit Sharma",
+            "role": "Homeowner, Jayanagar 4th Block",
+            "quote": "Karnataka Green Energy installed a 5kW system for our home in Jayanagar. Our bill fell from ₹8,000 a month to just ₹600! Kiran and his team handled the entire BESCOM net-metering paperwork and the government subsidy."
+        },
+        {
+            "name": "Rajesh Patel",
+            "role": "Owner, Patel Industrial Fabrication (Peenya)",
+            "quote": "Industrial power rates in Peenya were hurting our margins. Karnataka Green designed a customized 15kW rooftop array. Our commercial power bills dropped by 50% from the first month itself."
+        }
+    ],
+    "faqs": [
+        {
+            "question": "How much subsidy can I get for residential solar in Bangalore?",
+            "question_localized": "How much subsidy can I get for residential solar in Bangalore?",
+            "answer": "Under the PM Surya Ghar scheme, you can get a central subsidy of up to ₹78,000 for a 3kW system. Our team handles the entire documentation and portal registration process for you."
+        },
+        {
+            "question": "How long does BESCOM net metering approval take?",
+            "question_localized": "How long does BESCOM net metering approval take?",
+            "answer": "BESCOM approvals and net meter installation typically take 3 to 4 weeks. Our team coordinates directly with BESCOM officers to manage all applications and liaison approvals."
+        }
+    ]
+}

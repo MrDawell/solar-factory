@@ -1,0 +1,30 @@
+{
+    "business_id": "SLR-20260603-001",
+    "business_name": "Gujarat Solar Power",
+    "slug": "gujarat-solar-power",
+    "lead_source": "leads.csv",
+    "date_created": "2026-06-02T14:37:29.179953",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-02T14:37:29.179953",
+            "action": "IMPORT_LEAD",
+            "details": "Imported lead from leads.csv"
+        },
+        {
+            "timestamp": "2026-06-02T14:37:29.179953",
+            "action": "ENRICH_DATA",
+            "details": "Successfully enriched data in 0.0002s"
+        },
+        {
+            "timestamp": "2026-06-02T14:37:29.179953",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html in 0.0379s"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+File: abhiram-solar.business.json
+Biz Name: ABhiram solar
+Subheadline: Compact high-rating solar provider around Sahitya Naka area.
+  Clue: TS: Perfect rating, landmark-based address near Union Bank
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: akn-power-(india)-pvt.-ltd.business.json
+Biz Name: AKN Power (India) Pvt. Ltd
+Subheadline: Pvt. Ltd. solar company bridging corporate and local projects.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: anya-green-energy-solution.business.json
+Biz Name: Anya Green Energy Solution
+Subheadline: Multi-segment solar installer near DLW with broad base.
+  Clue: SRV: Solar installation for homes and businesses for homeowners and commercial clients around dlw and varanasi
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: babaaji-solar-and-tools-pvt-ltd.business.json
+Biz Name: babaaji solar & tools pvt ltd
+Subheadline: Tools plus solar supplier for contractors and installers.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: green-shine-solar-(second-listing).business.json
+Biz Name: GREEN SHINE SOLAR (second listing)
+Subheadline: Additional location/lead entry for Green Shine brand. Since 2024
+  Clue: SRV: Solar panel sales and installations for homeowners and shops near bhulanpur pac
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: green-shine-solar.business.json
+Biz Name: Green Shine Solar
+Subheadline: Young, aggressive solar installer with strong local presence. Since 2024
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: greenland-solar.business.json
+Biz Name: Greenland solar
+Subheadline: Local Sigra-based solar service expert combining repair and installs.
+  Clue: TS: Strong rating, known for repair near Stadium/Sigra, listed in directories
+  Clue: SRV: Solar panel repair for existing solar owners and new rooftop customers around sigra area
+  Clue: SRV: maintenance for existing solar owners and new rooftop customers around sigra area
+  Clue: SRV: rooftop installations for existing solar owners and new rooftop customers around sigra area
+  Clue: SRV: troubleshooting for existing solar owners and new rooftop customers around sigra area
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: greenlantern-energy.business.json
+Biz Name: GreenLantern energy
+Subheadline: Branded GreenLantern solar specialist in a known solar hub address.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: hariom-traders.business.json
+Biz Name: Hariom Traders
+Subheadline: Tata-authorized solar dealer trusted in Paharia/Sarnath belt. Since 2010
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: indrawati-solar-solution.business.json
+Biz Name: Indrawati solar solution
+Subheadline: High-rated EPC-style solar firm opposite Shepa Institute. Approx. 2+ years
+  Clue: SRV: Solar EPC work for homeowners and small commercial clients around bachhawn/shepa
+  Clue: SRV: system installation for homeowners and small commercial clients around bachhawn/shepa
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: kartik-solar--utl-solar--loom-solar.business.json
+Biz Name: KARTIK SOLAR//UTL SOLAR//LOOM SOLAR
+Subheadline: Multi-brand Loom/UTL storefront with retail and small projects.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: lallan-solar.business.json
+Biz Name: Lallan solar
+Subheadline: Dedicated solar service provider rather than only installer.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: loom-solar----utl-solar----distributor.business.json
+Biz Name: LOOM SOLAR // UTL SOLAR // distributor
+Subheadline: Multi-brand Loom/UTL distributor rather than just installer.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: m2m-solar-point.business.json
+Biz Name: M2M SOLAR POINT
+Subheadline: Small high-ratings solar point for locality.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: mahadev-enterprises-[wholesale].business.json
+Biz Name: Mahadev Enterprises [Wholesale]
+Subheadline: Wholesale-oriented supplier at Singhpur bus stand.
+  Clue: TS: Wholesale tag, bus stand-area presence
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: matri-shree-green-solar.business.json
+Biz Name: Matri Shree Green Solar
+Subheadline: MNRE-certified local PV module manufacturer executing turnkey rooftop projects. Since 2017
+  Clue: SRV: Rooftop solar plants for homeowners, small businesses, institutions in and around varanasi
+  Clue: SRV: on-grid/off-grid systems for homeowners, small businesses, institutions in and around varanasi
+  Clue: SRV: solar street lights for homeowners, small businesses, institutions in and around varanasi
+  Clue: SRV: pumps for homeowners, small businesses, institutions in and around varanasi
+  Clue: SRV: inverters for homeowners, small businesses, institutions in and around varanasi
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: msp-and-company.business.json
+Biz Name: MSP AND COMPANY
+Subheadline: Generalist solar installer with scope to sharpen niche.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: patel-solar-power-system.business.json
+Biz Name: Patel Solar Power System
+Subheadline: Highly rated neighborhood installer around Shivaji Nagar.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: pradha-solar-generation.business.json
+Biz Name: PRADHA SOLAR GENERATION
+Subheadline: Colony-focused solar provider around Vaishno Nagar.
+  Clue: TS: Perfect rating, Vaishno Nagar colony address
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: projecteez-solar-power-system.business.json
+Biz Name: ProjectEEZ Solar Power System
+Subheadline: Project-style solar provider for small clients.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: purvanchal-green-energy.business.json
+Biz Name: PURVANCHAL GREEN ENERGY
+Subheadline: High-trust solar provider branded around Purvanchal.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: shri-babaji-power-and-solar-solution-llp.business.json
+Biz Name: Shri Babaji Power & Solar Solution LLP
+Subheadline: LLP-backed solar provider with strong early feedback.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: sks-solar-tech-solutions.business.json
+Biz Name: SKS Solar Tech Solutions
+Subheadline: Tech-oriented solar service provider near JNM College Gate.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: smart-solar-solutions.business.json
+Biz Name: SMART SOLAR SOLUTIONS
+Subheadline: Smart rooftop installer known for net metering and modern systems.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: solar-tek-india-varanasi.business.json
+Biz Name: Solar tek india Varanasi
+Subheadline: New Solar tek India presence around Varanasi city.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: sri-krishna-and-company.business.json
+Biz Name: Sri Krishna & Company
+Subheadline: Traditional Sri Krishna branding with solar offering.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: sun-ray-system.business.json
+Biz Name: Sun Ray System
+Subheadline: Fresh Sun Ray brand near key city landmarks.
+  Clue: TS: Clear address near Police Line, potential to build reviews
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: udita-enterprises-(solar-energy).business.json
+Biz Name: Udita Enterprises (solar energy)
+Subheadline: Compact solar business under Udita Enterprises branding.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: varanasi-solar-panel.business.json
+Biz Name: Varanasi Solar Panel
+Subheadline: Small focused solar equipment supplier in Varanasi.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: varanasi-solar-tech.business.json
+Biz Name: Varanasi Solar Tech
+Subheadline: Tech-branded solar startup opposite hotel landmark.
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------
+File: wisdom-tree-solar-solution.business.json
+Biz Name: Wisdom Tree Solar Solution
+Subheadline: Wisdom Tree branding tied to smart solar choices.
+  Clue: TS: 5-star rating, Singhpur Gola address
+  Clue: PRJ: Rooftop solar plant for a nearby shop or small business, sized around their day-time power usage.
+--------------------------------------------------------------------------------

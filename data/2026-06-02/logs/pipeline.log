@@ -1,0 +1,14 @@
+2026-06-02 02:17:38,609 - INFO - Starting Solar Website Factory Pipeline for batch: 2026-06-02
+2026-06-02 02:17:38,609 - INFO - Batch Directory: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-02
+2026-06-02 02:17:38,609 - INFO - Step 1/2: Enriching leads from CSV into structured JSON...
+2026-06-02 02:17:38,611 - INFO - Enrichment completed. Processed 3 leads in 0.0021 seconds.
+2026-06-02 02:17:38,611 - INFO - Step 2/2: Compiling JSON data into HTML templates...
+2026-06-02 02:17:38,704 - INFO - Compilation completed. Generated 3 websites in 0.0921 seconds.
+2026-06-02 02:17:38,704 - INFO - ============================================================
+2026-06-02 02:17:38,704 - INFO - Pipeline finished successfully in 0.0947 seconds!
+2026-06-02 02:17:38,705 - INFO - Total Leads Processed: 3
+2026-06-02 02:17:38,705 - INFO - Total Websites Generated: 3
+2026-06-02 02:17:38,705 - INFO - Average Compile Speed: 0.0307s per website
+2026-06-02 02:17:38,705 - INFO - Run Summary saved to: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-02\logs\run_summary.json
+2026-06-02 02:17:38,705 - INFO - Logs written to: C:\Users\Dell\OneDrive\Documents\Solar factory\data\2026-06-02\logs\pipeline.log
+2026-06-02 02:17:38,705 - INFO - ============================================================

@@ -1,0 +1,25 @@
+{
+    "business_id": "SLR-20260602-002",
+    "business_name": "Deccan Solar Tech",
+    "slug": "deccan-solar-tech",
+    "lead_source": "leads.csv",
+    "date_created": "2026-06-02T14:36:48.389418",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-02T14:36:48.389418",
+            "action": "IMPORT_LEAD",
+            "details": "Imported from CSV and flat JSON"
+        },
+        {
+            "timestamp": "2026-06-02T14:36:48.389418",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html using visual Tailwind template"
+        }
+    ]
+}

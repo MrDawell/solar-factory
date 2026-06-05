@@ -1,0 +1,25 @@
+{
+    "business_id": "SLR-20260602-207",
+    "business_name": "Greenland solar",
+    "slug": "greenland-solar",
+    "lead_source": "varanasi-leads-business-json-enriched",
+    "date_created": "2026-06-02T04:07:48.278788",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-02T04:07:48.278788",
+            "action": "IMPORT_LEAD",
+            "details": "Imported Varanasi enriched JSON"
+        },
+        {
+            "timestamp": "2026-06-02T04:07:48.278788",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html using template.html"
+        }
+    ]
+}

@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+
+<html class="scroll-smooth" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>SolarExpert India | Leading Rooftop Solar EPC in Raipur</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&amp;family=Inter:wght@400;600&amp;family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;family=Montserrat:wght@100..900&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "on-tertiary-container": "#f5fff6",
+                        "primary-container": "#00855d",
+                        "inverse-surface": "#27313f",
+                        "on-primary-fixed": "#002114",
+                        "surface-dim": "#d0dbed",
+                        "on-primary": "#ffffff",
+                        "error": "#ba1a1a",
+                        "surface-container": "#e6eeff",
+                        "surface-container-high": "#dee9fc",
+                        "surface-container-low": "#eff4ff",
+                        "tertiary-container": "#00855b",
+                        "on-error": "#ffffff",
+                        "on-surface-variant": "#3d4a42",
+                        "outline-variant": "#bccac0",
+                        "secondary-fixed": "#ffddb8",
+                        "inverse-on-surface": "#eaf1ff",
+                        "secondary-container": "#fea619",
+                        "tertiary-fixed-dim": "#4edea3",
+                        "on-secondary-fixed": "#2a1700",
+                        "on-error-container": "#93000a",
+                        "on-surface": "#121c2a",
+                        "tertiary": "#006947",
+                        "secondary": "#855300",
+                        "on-secondary": "#ffffff",
+                        "primary": "#006948",
+                        "primary-fixed": "#85f8c4",
+                        "surface": "#f8f9ff",
+                        "on-primary-fixed-variant": "#005137",
+                        "surface-bright": "#f8f9ff",
+                        "primary-fixed-dim": "#68dba9",
+                        "tertiary-fixed": "#6ffbbe",
+                        "surface-tint": "#006c4a",
+                        "outline": "#6d7a72",
+                        "on-tertiary-fixed": "#002113",
+                        "on-tertiary-fixed-variant": "#005236",
+                        "secondary-fixed-dim": "#ffb95f",
+                        "on-secondary-fixed-variant": "#653e00",
+                        "error-container": "#ffdad6",
+                        "surface-container-lowest": "#ffffff",
+                        "on-secondary-container": "#684000",
+                        "background": "#f8f9ff",
+                        "on-primary-container": "#f5fff7",
+                        "on-background": "#121c2a",
+                        "surface-variant": "#d9e3f6",
+                        "inverse-primary": "#68dba9",
+                        "on-tertiary": "#ffffff",
+                        "surface-container-highest": "#d9e3f6"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "xl": "48px",
+                        "sm": "8px",
+                        "gutter-mobile": "16px",
+                        "container-max": "1200px",
+                        "gutter-desktop": "24px",
+                        "xs": "4px",
+                        "lg": "24px",
+                        "md": "16px",
+                        "unit": "4px"
+                    },
+                    "fontFamily": {
+                        "caption": ["Inter"],
+                        "title-lg": ["Montserrat"],
+                        "body-lg": ["Inter"],
+                        "display-lg": ["Montserrat"],
+                        "headline-md-mobile": ["Montserrat"],
+                        "body-md": ["Inter"],
+                        "label-md": ["Inter"],
+                        "headline-md": ["Montserrat"],
+                        "display-lg-mobile": ["Montserrat"]
+                    },
+                    "fontSize": {
+                        "caption": ["12px", {"lineHeight": "1.4", "fontWeight": "400"}],
+                        "title-lg": ["20px", {"lineHeight": "1.5", "fontWeight": "600"}],
+                        "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}],
+                        "display-lg": ["48px", {"lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                        "headline-md-mobile": ["24px", {"lineHeight": "1.3", "fontWeight": "600"}],
+                        "body-md": ["16px", {"lineHeight": "1.6", "fontWeight": "400"}],
+                        "label-md": ["14px", {"lineHeight": "1.4", "letterSpacing": "0.01em", "fontWeight": "600"}],
+                        "headline-md": ["32px", {"lineHeight": "1.3", "fontWeight": "600"}],
+                        "display-lg-mobile": ["32px", {"lineHeight": "1.2", "letterSpacing": "-0.01em", "fontWeight": "700"}]
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+        input[type="range"] {
+            -webkit-appearance: none;
+            width: 100%;
+            background: transparent;
+        }
+        input[type="range"]::-webkit-slider-runnable-track {
+            width: 100%;
+            height: 8px;
+            cursor: pointer;
+            background: #e6eeff;
+            border-radius: 4px;
+        }
+        input[type="range"]::-webkit-slider-thumb {
+            height: 24px;
+            width: 24px;
+            border-radius: 50%;
+            background: #006948;
+            cursor: pointer;
+            -webkit-appearance: none;
+            margin-top: -8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body class="bg-background text-on-background font-body-md text-body-md overflow-x-hidden">
+<!-- TopNavBar -->
+<header class="fixed top-0 w-full z-50 bg-surface/90 backdrop-blur-md shadow-sm">
+<nav class="flex justify-between items-center h-20 px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<div class="font-title-lg text-title-lg font-bold text-primary">SolarExpert India</div>
+<div class="hidden md:flex gap-lg items-center">
+<a class="font-label-md text-label-md text-primary border-b-2 border-primary pb-1" href="#benefits">Benefits</a>
+<a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" href="#calculator">Calculator</a>
+<a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" href="#services">Services</a>
+<a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" href="#gallery">Gallery</a>
+<a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" href="#faq">FAQ</a>
+</div>
+<div class="flex items-center gap-md">
+<button class="hidden md:flex items-center gap-xs px-md py-sm bg-primary text-on-primary rounded-lg hover:opacity-80 transition-opacity active:scale-95"><svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"></path></svg><span>Call Now</span></button>
+<button class="flex items-center gap-xs px-md py-sm bg-secondary-container text-on-secondary-container rounded-lg hover:opacity-80 transition-opacity active:scale-95" style="background-color: #25D366; color: white;"><svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"></path></svg><span>WhatsApp</span></button>
+</div>
+</nav>
+</header>
+<main class="pt-20">
+<!-- Hero Section -->
+<section class="relative min-h-[819px] flex items-center overflow-hidden py-xl">
+<div class="absolute inset-0 z-0">
+<img class="w-full h-full object-cover" data-alt="A wide-angle landscape photograph of a modern residential neighborhood in Raipur, India, during a bright sunny day. High-efficiency solar panels are neatly installed on multiple rooftops, reflecting the golden sunlight. The atmosphere is clean and optimistic, highlighting the transition to sustainable energy in an urban Indian setting with a clear blue sky and warm natural lighting." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCGYM46nI_IzuF_YX3nN6kxxxhFLnQ4e7WZ0JpgIc9ld0iiZa6XGCfX6r94OHr7mkbe13lrzvew5gRG91dATiC2kCXTlWLmiZn9cEMpZhGuqiIfj5MbVYu455uhmoicVGp9dABF3q5Q1UEFDAEKh2y2Uol-gWoX9owzRjWhQOZVizZckWYMSTlYBWQe_X95tATKLmHDOXAqC-rXo5ROfPjFJe5IrU0q--z3sahOqLniaG9lk8MocwlXHdUcq7yZwVbbPT3OuU93FrV3"/>
+<div class="absolute inset-0 bg-gradient-to-r from-background via-background/80 to-transparent"></div>
+</div>
+<div class="relative z-10 px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto w-full">
+<div class="max-w-2xl">
+<div class="inline-flex items-center gap-sm bg-primary-container/10 text-primary px-md py-xs rounded-full mb-md">
+<span class="material-symbols-outlined text-body-md" style="font-variation-settings: 'FILL' 1;">verified</span>
+<span class="font-label-md text-label-md">MNRE Approved Partner</span>
+</div>
+<h1 class="font-display-lg-mobile md:font-display-lg text-display-lg-mobile md:text-display-lg text-on-surface mb-md">
+                    Cut Your Light Bill by Up to <span class="text-secondary">60%</span> with Rooftop Solar in Raipur
+                </h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant mb-lg">
+                    Premium solar systems with government subsidy support. Expert installation serving Raipur, Bhilai, and surrounding areas.
+                </p>
+<div class="flex flex-col sm:flex-row gap-md">
+<a class="bg-secondary-container text-on-secondary-container px-xl py-md rounded-xl font-title-lg text-center hover:shadow-lg transition-all active:scale-95" href="#calculator">
+                        Calculate Savings
+                    </a>
+<a class="bg-primary text-on-primary px-xl py-md rounded-xl font-title-lg text-center hover:shadow-lg transition-all active:scale-95" href="#form">
+                        Get Free Quote
+                    </a>
+</div>
+</div>
+</div>
+</section>
+<!-- Interactive Calculator -->
+<section class="py-xl bg-surface" id="calculator">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<div class="text-center mb-xl">
+<h2 class="font-headline-md text-headline-md text-on-surface mb-md">Check How Much You Can Save with Solar</h2>
+<p class="text-on-surface-variant max-w-2xl mx-auto">Slide to select your monthly light bill and see your potential savings instantly.</p>
+</div>
+<div class="flex flex-col lg:flex-row gap-lg items-start">
+<div class="flex-1 w-full bg-surface-container-lowest p-lg rounded-xl border border-outline-variant shadow-sm">
+<form class="space-y-xl" id="calc-form">
+<div>
+<div class="flex justify-between items-center mb-md">
+<label class="block font-label-md text-on-surface">Monthly Electricity Bill</label>
+<span class="text-headline-md text-primary font-bold" id="bill-display">₹3,500</span>
+</div>
+<input class="w-full accent-primary" id="bill-range" max="50000" min="1000" step="500" type="range" value="3500"/>
+<div class="flex justify-between text-caption text-on-surface-variant mt-xs">
+<span>₹1k</span>
+<span>₹25k</span>
+<span>₹50k</span>
+</div>
+</div>
+<div>
+<label class="block font-label-md mb-md text-on-surface">Connection Type</label>
+<div class="flex p-1 bg-surface-container rounded-xl gap-1">
+<button class="flex-1 py-sm rounded-lg font-label-md transition-all bg-primary text-on-primary shadow-sm" data-type="residential" type="button">Home</button>
+<button class="flex-1 py-sm rounded-lg font-label-md transition-all text-on-surface-variant hover:bg-white/50" data-type="commercial" type="button">Shop</button>
+<button class="flex-1 py-sm rounded-lg font-label-md transition-all text-on-surface-variant hover:bg-white/50" data-type="factory" type="button">Factory</button>
+</div>
+</div>
+<div class="flex items-center gap-sm p-md bg-primary/5 rounded-xl border border-primary/10">
+<span class="material-symbols-outlined text-primary">location_on</span>
+<div>
+<p class="text-caption text-on-surface-variant leading-none">Service Area</p>
+<p class="font-title-lg text-primary">Raipur, Chhattisgarh</p>
+</div>
+</div>
+</form>
+</div>
+<div class="flex-1 w-full">
+<div class="bg-surface-container-high p-lg rounded-xl border border-primary/20 shadow-md h-full">
+<h3 class="font-title-lg text-title-lg text-primary mb-lg">Your Estimated Savings</h3>
+<div class="grid grid-cols-3 gap-md mb-lg">
+<div class="text-center">
+<p class="text-caption text-on-surface-variant uppercase tracking-wider">System Size</p>
+<p class="font-headline-md text-primary" id="res-size">3.0 kW</p>
+</div>
+<div class="text-center border-x border-outline-variant">
+<p class="text-caption text-on-surface-variant uppercase tracking-wider">Monthly Savings</p>
+<p class="font-headline-md text-primary" id="res-savings">₹2,450</p>
+</div>
+<div class="text-center">
+<p class="text-caption text-on-surface-variant uppercase tracking-wider">Payback Period</p>
+<p class="font-headline-md text-primary" id="res-payback">4.2 Yrs</p>
+</div>
+</div>
+<p class="text-caption text-on-surface-variant italic mb-lg">*Actual values depend on your roof, usage, and DISCOM tariff. Get a free detailed proposal based on your latest bill.</p>
+<div class="space-y-sm">
+<a class="flex items-center justify-center gap-sm bg-secondary-container text-on-secondary-container py-md px-xl rounded-xl font-bold hover:shadow-md transition-all active:scale-95 w-full" href="https://wa.me/910000000000" style="background-color: #25D366; color: white;"><svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"></path></svg><span>WhatsApp My Detailed Estimate</span></a>
+<a class="flex items-center justify-center bg-primary/10 text-primary border border-primary py-md px-xl rounded-xl font-bold hover:bg-primary/20 transition-all active:scale-95 w-full" href="#form">
+                                Send My Bill &amp; Get Proposal
+                            </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Why Us Bento Grid -->
+<section class="py-xl bg-surface-container-low" id="benefits">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<h2 class="font-headline-md text-headline-md text-center mb-xl">Why SolarExpert EPC?</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-lg">
+<div class="bg-surface-container-lowest p-lg rounded-xl border border-outline-variant shadow-sm flex flex-col items-center text-center">
+<div class="w-16 h-16 bg-primary-fixed rounded-full flex items-center justify-center text-primary mb-md">
+<span class="material-symbols-outlined text-[32px]">solar_power</span>
+</div>
+<h3 class="font-title-lg text-title-lg mb-sm">100+ Systems Installed</h3>
+<p class="text-on-surface-variant">Proven track record of powering homes and businesses across Chhattisgarh.</p>
+</div>
+<div class="bg-surface-container-lowest p-lg rounded-xl border border-outline-variant shadow-sm flex flex-col items-center text-center">
+<div class="w-16 h-16 bg-primary-fixed rounded-full flex items-center justify-center text-primary mb-md">
+<span class="material-symbols-outlined text-[32px]">workspace_premium</span>
+</div>
+<h3 class="font-title-lg text-title-lg mb-sm">5+ Years Experience</h3>
+<p class="text-on-surface-variant">Deep technical expertise in MNRE guidelines and local net-metering processes.</p>
+</div>
+<div class="bg-surface-container-lowest p-lg rounded-xl border border-outline-variant shadow-sm flex flex-col items-center text-center">
+<div class="w-16 h-16 bg-primary-fixed rounded-full flex items-center justify-center text-primary mb-md">
+<span class="material-symbols-outlined text-[32px]">support_agent</span>
+</div>
+<h3 class="font-title-lg text-title-lg mb-sm">Local Service Team</h3>
+<p class="text-on-surface-variant">Based in Raipur for lightning-fast maintenance and on-site support.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- Savings Section -->
+<section class="py-xl" id="savings">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<div class="text-center mb-xl">
+<h2 class="font-headline-md text-headline-md mb-md">Choose Your Power Plan</h2>
+<p class="text-on-surface-variant max-w-2xl mx-auto">Estimated savings based on average Raipur sunshine hours and current tariff rates.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-lg">
+<div class="glass-card p-lg rounded-xl border border-outline-variant flex flex-col hover:border-primary transition-colors group">
+<h3 class="font-title-lg text-title-lg mb-md">2-3 BHK Flat</h3>
+<div class="flex items-baseline gap-xs mb-md">
+<span class="text-on-surface-variant line-through">₹4,000</span>
+<span class="text-headline-md text-primary">₹1,600</span>
+<span class="text-caption">/mo</span>
+</div>
+<div class="bg-primary/10 text-primary font-label-md px-md py-sm rounded-lg text-center mb-lg">
+                        Savings 60%
+                    </div>
+<ul class="space-y-sm mb-lg flex-grow">
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> 3kW System</li>
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> Net Metering Included</li>
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> Subsidy Support</li>
+</ul>
+<button class="w-full py-md bg-primary text-on-primary rounded-lg active:scale-95 transition-transform">Enquire Now</button>
+</div>
+<div class="glass-card p-lg rounded-xl border-2 border-primary relative flex flex-col shadow-lg">
+<div class="absolute -top-4 left-1/2 -translate-x-1/2 bg-secondary text-on-secondary px-md py-xs rounded-full font-label-md">Most Popular</div>
+<h3 class="font-title-lg text-title-lg mb-md">Independent House</h3>
+<div class="flex items-baseline gap-xs mb-md">
+<span class="text-on-surface-variant line-through">₹8,000</span>
+<span class="text-headline-md text-primary">₹2,400</span>
+<span class="text-caption">/mo</span>
+</div>
+<div class="bg-primary/10 text-primary font-label-md px-md py-sm rounded-lg text-center mb-lg">
+                        Savings 70%
+                    </div>
+<ul class="space-y-sm mb-lg flex-grow">
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> 5kW - 8kW System</li>
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> Whole House Backup</li>
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> Mobile Monitoring App</li>
+</ul>
+<button class="w-full py-md bg-secondary-container text-on-secondary-container rounded-lg font-bold active:scale-95 transition-transform">Get Best Deal</button>
+</div>
+<div class="glass-card p-lg rounded-xl border border-outline-variant flex flex-col hover:border-primary transition-colors group">
+<h3 class="font-title-lg text-title-lg mb-md">Small Shop</h3>
+<div class="flex items-baseline gap-xs mb-md">
+<span class="text-on-surface-variant line-through">₹15,000</span>
+<span class="text-headline-md text-primary">₹7,500</span>
+<span class="text-caption">/mo</span>
+</div>
+<div class="bg-primary/10 text-primary font-label-md px-md py-sm rounded-lg text-center mb-lg">
+                        Savings 50%
+                    </div>
+<ul class="space-y-sm mb-lg flex-grow">
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> 10kW System</li>
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> Commercial Grid Tie</li>
+<li class="flex items-center gap-sm"><span class="material-symbols-outlined text-primary">check_circle</span> ROI in 3 Years</li>
+</ul>
+<button class="w-full py-md bg-primary text-on-primary rounded-lg active:scale-95 transition-transform">Commercial Quote</button>
+</div>
+</div>
+</div>
+</section>
+<!-- Process Section -->
+<section class="py-xl bg-surface-container">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<h2 class="font-headline-md text-headline-md text-center mb-xl">Your Journey to Zero Bill</h2>
+<div class="relative">
+<div class="hidden md:block absolute top-1/2 left-0 w-full h-1 bg-primary/20 -translate-y-1/2"></div>
+<div class="grid grid-cols-1 md:grid-cols-4 gap-lg relative z-10">
+<div class="bg-surface-container-lowest p-md rounded-xl text-center shadow-sm">
+<div class="w-12 h-12 bg-primary text-on-primary rounded-full flex items-center justify-center mx-auto mb-md font-bold">1</div>
+<h4 class="font-title-lg text-title-lg mb-xs">Share Bill</h4>
+<p class="text-caption">Send us your latest electricity bill via WhatsApp.</p>
+</div>
+<div class="bg-surface-container-lowest p-md rounded-xl text-center shadow-sm">
+<div class="w-12 h-12 bg-primary text-on-primary rounded-full flex items-center justify-center mx-auto mb-md font-bold">2</div>
+<h4 class="font-title-lg text-title-lg mb-xs">Site Visit</h4>
+<p class="text-caption">Our engineers assess your rooftop capacity and structure.</p>
+</div>
+<div class="bg-surface-container-lowest p-md rounded-xl text-center shadow-sm">
+<div class="w-12 h-12 bg-primary text-on-primary rounded-full flex items-center justify-center mx-auto mb-md font-bold">3</div>
+<h4 class="font-title-lg text-title-lg mb-xs">Installation</h4>
+<p class="text-caption">Fast installation &amp; net-metering paperwork by our team.</p>
+</div>
+<div class="bg-surface-container-lowest p-md rounded-xl text-center shadow-sm">
+<div class="w-12 h-12 bg-primary text-on-primary rounded-full flex items-center justify-center mx-auto mb-md font-bold">4</div>
+<h4 class="font-title-lg text-title-lg mb-xs">Support</h4>
+<p class="text-caption">25-year panel warranty and local maintenance support.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Services Section -->
+<section class="py-xl" id="services">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<div class="flex flex-col md:flex-row gap-xl items-center">
+<div class="flex-1">
+<h2 class="font-headline-md text-headline-md mb-lg">Tailored Solar Solutions</h2>
+<div class="space-y-md">
+<div class="p-md rounded-xl bg-surface-container-low border-l-4 border-primary">
+<h4 class="font-title-lg text-title-lg mb-xs">Home Solar</h4>
+<p class="text-on-surface-variant">Maximize your roof space with high-efficiency residential systems.</p>
+</div>
+<div class="p-md rounded-xl hover:bg-surface-container-low transition-colors">
+<h4 class="font-title-lg text-title-lg mb-xs">Commercial Solar</h4>
+<p class="text-on-surface-variant">Reduce operational costs for offices, warehouses, and factories.</p>
+</div>
+<div class="p-md rounded-xl hover:bg-surface-container-low transition-colors">
+<h4 class="font-title-lg text-title-lg mb-xs">School/Clinic Solar</h4>
+<p class="text-on-surface-variant">Reliable power for essential services with zero noise and pollution.</p>
+</div>
+<div class="p-md rounded-xl hover:bg-surface-container-low transition-colors">
+<h4 class="font-title-lg text-title-lg mb-xs">Annual Maintenance</h4>
+<p class="text-on-surface-variant">Regular cleaning and health checks to ensure peak generation.</p>
+</div>
+</div>
+</div>
+<div class="flex-1 w-full aspect-square rounded-2xl overflow-hidden shadow-2xl">
+<img class="w-full h-full object-cover" data-alt="A close-up, high-detail photograph of a solar engineer in a professional uniform inspecting a newly installed photovoltaic array on a clean, white industrial roof. The engineer is pointing at a high-tech inverter display. The lighting is crisp and midday, emphasizing the textures of the high-quality monocrystalline panels and the professional nature of the service." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDYc8O--WnGs6bwpYRp2Tq0JiFbtfSVbwIk6hWhqu0BnfJ9IeZnvknZLvdq_YKQRpQdxfqtEpQ4DdFmpFRQ6p2ZCdAPhTdYOsTH9Qk_a_XMuTqlwjHvpAtzbwRT3HejKxhyHHraMfsXr1WO_kBEFCiOtFMLh930awQdlpGlHwaJr_rtQBI8TFfRGJik2go9Jg3JLgwbDLfL-xpByu7498gVym1eGkeArnW0nZt1ETPWTaV6lrFgxMg4sL28CjWtMsH-ZpUNaeseBJrp"/>
+</div>
+</div>
+</div>
+</section>
+<!-- Gallery -->
+<section class="py-xl bg-inverse-surface text-on-primary-fixed" id="gallery">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<h2 class="font-headline-md text-headline-md text-center mb-xl text-primary-fixed">Our Latest Installations</h2>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-lg">
+<div class="group relative overflow-hidden rounded-xl aspect-[16/9]">
+<img class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" data-alt="Luxury villa in Shankar Nagar, Raipur with solar system" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBtz5ZHKM1VLtQYXYsR8eSj41P8R8j765GVpFkcsV3-kcfAdOWCiarC2mx9BVtpFKWvAAo3GsmvpIky8PgaC2_iZMEXejLIQ4NoB6AeBjjra-ciCYICIM3nroKB9Wja7B0wP40kN9k9br1YUhuRuEchrscfuJgnLEzWvNfN3nRr3EhGRby0pUVhowfZegf3UeQH1Z3mvdeLLiS9S9Wg-J6SDftFiQmrbHuSqpmgDPGN7xl1jHa9YnhrZPqsTjciFkemrwgbNbAO9Bhm"/>
+<div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-lg">
+<h4 class="font-title-lg text-title-lg text-white">Shankar Nagar Project</h4>
+<p class="text-surface-variant">5kW Residential System • Monthly Savings: ₹4,500</p>
+</div>
+</div>
+<div class="group relative overflow-hidden rounded-xl aspect-[16/9]">
+<img class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" data-alt="Commercial shop solar installation in Tatibandh market, Raipur" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOTiyARPLwS66rRHbgxgHTnrB6ldirzmQyamKlgY8ixmzHIxZT6lHEnvw4Tsbrl7bqsvn1LQ2_UTyQ_Gm2sFLUTrFASfbCDqyQUQ1L3oMDLr8OuNkr_jwE4vZW0GRZ1SsUfepdRK7g5g5W2ZXV7PuJIha90wE-oZJBrtKQFjy5GKVsuTc0_VZHfODdPf-xD4jaOC05zyT_8T-YkIoQPx7KXoGLS1EISeOAV81K5veV5P5pWAovMgGX2eSc7LyGY3Y-Jj3y_hYJmOvB"/>
+<div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-lg">
+<h4 class="font-title-lg text-title-lg text-white">Tatibandh Commercial</h4>
+<p class="text-surface-variant">10kW Shop System • Monthly Savings: ₹9,200</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- FAQ Section -->
+<section class="py-xl" id="faq">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto max-w-3xl">
+<h2 class="font-headline-md text-headline-md text-center mb-xl">Frequently Asked Questions</h2>
+<div class="space-y-md">
+<details class="group p-md rounded-xl bg-surface-container-lowest border border-outline-variant transition-all">
+<summary class="flex justify-between items-center cursor-pointer font-title-lg text-title-lg">
+                        How much subsidy can I get?
+                        <span class="material-symbols-outlined group-open:rotate-180 transition-transform">expand_more</span>
+</summary>
+<p class="mt-md text-on-surface-variant">Under the PM-Surya Ghar Muft Bijli Yojana, residential consumers can get up to ₹78,000 subsidy for a 3kW system. We handle all the paperwork for you.</p>
+</details>
+<details class="group p-md rounded-xl bg-surface-container-lowest border border-outline-variant transition-all">
+<summary class="flex justify-between items-center cursor-pointer font-title-lg text-title-lg">
+                        What is the cost of installation?
+                        <span class="material-symbols-outlined group-open:rotate-180 transition-transform">expand_more</span>
+</summary>
+<p class="mt-md text-on-surface-variant">Costs vary based on system size and panel quality. Typically, a 3kW system starts from ₹1.5 Lakhs (before subsidy). We offer easy EMI options.</p>
+</details>
+<details class="group p-md rounded-xl bg-surface-container-lowest border border-outline-variant transition-all">
+<summary class="flex justify-between items-center cursor-pointer font-title-lg text-title-lg">
+                        Do solar panels work in rainy season?
+                        <span class="material-symbols-outlined group-open:rotate-180 transition-transform">expand_more</span>
+</summary>
+<p class="mt-md text-on-surface-variant">Yes! Panels generate power from light, not heat. While generation is lower on cloudy days, modern panels are highly efficient even in diffuse light.</p>
+</details>
+</div>
+</div>
+</section>
+<!-- Map & Contact Section -->
+<section class="py-xl bg-surface-container-low" id="contact">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-xl items-stretch">
+<div class="h-[450px] rounded-2xl overflow-hidden shadow-lg border border-outline-variant">
+<iframe frameborder="0" height="100%" marginheight="0" marginwidth="0" scrolling="no" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Raipur,%20Chhattisgarh,%20India+(SolarExpert%20EPC%20India)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="100%">
+</iframe>
+</div>
+<div class="bg-primary text-on-primary p-xl rounded-2xl flex flex-col justify-center">
+<h2 class="font-headline-md text-headline-md mb-md">Visit Our Experience Center</h2>
+<p class="text-body-lg mb-lg opacity-90">Located in the heart of Raipur, we're ready to show you how solar works for your specific home or business.</p>
+<div class="space-y-md mb-xl">
+<div class="flex items-start gap-md">
+<span class="material-symbols-outlined">location_on</span>
+<p>Main Market Road, Near Tatibandh Chowk, Raipur, Chhattisgarh 492001</p>
+</div>
+<div class="flex items-center gap-md">
+<span class="material-symbols-outlined"><svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"></path></svg></span>
+<p>+91 90000 00000</p>
+</div>
+<div class="flex items-center gap-md">
+<span class="material-symbols-outlined">schedule</span>
+<p>Mon - Sat: 10:00 AM - 7:00 PM</p>
+</div>
+</div>
+<a class="inline-flex items-center justify-center gap-sm bg-secondary-container text-on-secondary-container py-md px-xl rounded-xl font-bold hover:scale-105 transition-transform" href="https://wa.me/910000000000" style="background-color: #25D366; color: white;"><svg class="w-6 h-6" fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"></path></svg><span>Chat with Expert on WhatsApp</span></a>
+</div>
+</div>
+</div>
+</section>
+<!-- CTA Form Section -->
+<section class="py-xl bg-primary-container/5" id="form">
+<div class="px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<div class="bg-surface-container-lowest rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row border border-outline-variant">
+<div class="flex-1 p-xl bg-primary text-on-primary flex flex-col justify-center">
+<h2 class="font-headline-md text-headline-md mb-md">Ready to Switch?</h2>
+<p class="font-body-lg text-body-lg mb-lg opacity-90">Send us a photo of your electricity bill, and our expert will call you with a customized savings report within 4 hours.</p>
+<a class="inline-flex items-center justify-center gap-sm bg-secondary-container text-on-secondary-container py-md px-xl rounded-xl font-bold hover:scale-105 transition-transform" href="https://wa.me/910000000000" style="background-color: #25D366; color: white;"><svg class="w-6 h-6" fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"></path></svg><span>WhatsApp Your Bill</span></a>
+</div>
+<div class="flex-1 p-xl">
+<form class="space-y-md">
+<div>
+<label class="block font-label-md mb-xs">Full Name</label>
+<input class="w-full px-md py-sm rounded-lg border-outline border focus:ring-2 focus:ring-primary focus:border-primary outline-none" placeholder="e.g. Rahul Sharma" type="text"/>
+</div>
+<div>
+<label class="block font-label-md mb-xs">Phone Number</label>
+<input class="w-full px-md py-sm rounded-lg border-outline border focus:ring-2 focus:ring-primary focus:border-primary outline-none" placeholder="+91 XXXXX XXXXX" type="tel"/>
+</div>
+<div>
+<label class="block font-label-md mb-xs">Average Monthly Bill (₹)</label>
+<input class="w-full px-md py-sm rounded-lg border-outline border focus:ring-2 focus:ring-primary focus:border-primary outline-none" placeholder="e.g. 5000" type="number"/>
+</div>
+<button class="w-full bg-primary text-on-primary py-md rounded-xl font-bold hover:shadow-lg transition-all active:scale-95" type="submit">Get Callback</button>
+</form>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-surface-container-lowest py-xl border-t border-outline-variant mb-20 md:mb-0">
+<div class="flex flex-col items-center gap-md px-gutter-mobile md:px-gutter-desktop max-w-container-max mx-auto">
+<div class="font-title-lg text-title-lg font-bold text-primary">SolarExpert EPC India</div>
+<div class="flex flex-wrap justify-center gap-md">
+<a class="text-on-surface-variant hover:text-secondary transition-colors" href="#">Residential Solar</a>
+<a class="text-on-surface-variant hover:text-secondary transition-colors" href="#">Commercial Solar</a>
+<a class="text-on-surface-variant hover:text-secondary transition-colors" href="#">Maintenance</a>
+<a class="text-on-surface-variant hover:text-secondary transition-colors" href="#">Privacy Policy</a>
+<a class="text-on-surface-variant hover:text-secondary transition-colors" href="#">Terms of Service</a>
+</div>
+<p class="text-body-md text-on-surface-variant text-center">© 2024 SolarExpert EPC India. MNRE Approved Partner.</p>
+</div>
+</footer>
+<!-- BottomNavBar (Mobile Only) -->
+<div class="fixed bottom-0 left-0 w-full flex md:hidden z-50 bg-surface shadow-[0_-4px_12px_rgba(0,0,0,0.05)]">
+<a class="flex-1 flex flex-row items-center justify-center gap-sm bg-secondary text-on-secondary py-4 active:scale-98 transition-transform" href="tel:+910000000000"><svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"></path></svg><span class="font-label-md text-label-md">Call Expert</span></a>
+<a class="flex-1 flex flex-row items-center justify-center gap-sm bg-primary text-on-primary py-4 active:scale-98 transition-transform" href="https://wa.me/910000000000" style="background-color: #25D366; color: white;"><svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"></path></svg><span class="font-label-md text-label-md">WhatsApp</span></a>
+</div>
+<script>
+    const billRange = document.getElementById('bill-range');
+    const billDisplay = document.getElementById('bill-display');
+    const typeButtons = document.querySelectorAll('#calc-form button[data-type]');
+    const resSize = document.getElementById('res-size');
+    const resSavings = document.getElementById('res-savings');
+    const resPayback = document.getElementById('res-payback');
+
+    let currentType = 'residential';
+
+    function updateCalculator() {
+        const bill = parseInt(billRange.value);
+        billDisplay.innerText = '₹' + bill.toLocaleString('en-IN');
+
+        let size, savings, payback;
+
+        if (currentType === 'residential') {
+            size = (bill / 1200).toFixed(1);
+            savings = Math.floor(bill * 0.7);
+            payback = (4.0 + (Math.random() * 0.5)).toFixed(1);
+        } else if (currentType === 'commercial') {
+            size = (bill / 1000).toFixed(1);
+            savings = Math.floor(bill * 0.5);
+            payback = (3.2 + (Math.random() * 0.3)).toFixed(1);
+        } else {
+            size = (bill / 800).toFixed(1);
+            savings = Math.floor(bill * 0.45);
+            payback = (2.8 + (Math.random() * 0.4)).toFixed(1);
+        }
+
+        resSize.innerText = size + ' kW';
+        resSavings.innerText = '₹' + savings.toLocaleString('en-IN');
+        resPayback.innerText = payback + ' Yrs';
+    }
+
+    billRange.addEventListener('input', updateCalculator);
+
+    typeButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            typeButtons.forEach(b => {
+                b.classList.remove('bg-primary', 'text-on-primary', 'shadow-sm');
+                b.classList.add('text-on-surface-variant', 'hover:bg-white/50');
+            });
+            btn.classList.add('bg-primary', 'text-on-primary', 'shadow-sm');
+            btn.classList.remove('text-on-surface-variant', 'hover:bg-white/50');
+            currentType = btn.dataset.type;
+            updateCalculator();
+        });
+    });
+
+    // Initialize values
+    updateCalculator();
+
+    // Scroll interactions
+    window.addEventListener('scroll', () => {
+        const nav = document.querySelector('header');
+        if (window.scrollY > 50) {
+            nav.classList.add('shadow-md');
+        } else {
+            nav.classList.remove('shadow-md');
+        }
+    });
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            const target = document.querySelector(this.getAttribute('href'));
+            if(target) {
+                target.scrollIntoView({
+                    behavior: 'smooth'
+                });
+            }
+        });
+    });
+</script>
+</body></html>

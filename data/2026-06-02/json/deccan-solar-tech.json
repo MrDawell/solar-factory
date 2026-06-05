@@ -1,0 +1,75 @@
+{
+    "business_name": "Deccan Solar Tech",
+    "owner_name": "Vijay Patil",
+    "slug": "deccan-solar-tech",
+    "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Plot 45, Kothrud, Pune, Maharashtra 411038"
+    },
+    "contact": {
+        "phone": "+91 91234 56789",
+        "email": "info@deccansolar.co.in",
+        "whatsapp": "+919123456789"
+    },
+    "branding": {
+        "primary_color": "#0f766e",
+        "secondary_color": "#d97706",
+        "accent_color": "#059669",
+        "logo_text": "Deccan Solar",
+        "hero_bg_gradient_start": "#0f172a",
+        "hero_bg_gradient_end": "#1e293b"
+    },
+    "copywriting": {
+        "hero_title": "Trusted Rooftop Solar Installer in Pune",
+        "hero_subtitle": "Reduce your monthly MSEDCL bills with high-efficiency solar systems designed for Pune bungalows, housing societies, and commercial complexes.",
+        "about_title": "Helping Pune Homes & Businesses Cut Electricity Costs",
+        "about_text": "At Deccan Solar Tech, led by Vijay Patil, we help Pune residents and businesses beat rising Maharashtra power rates. We provide custom solar installations in Kothrud, Baner, Hinjawadi, and Bhosari. From handling MSEDCL net-metering approvals to processing government subsidies, we build reliable, high-yield solar arrays that last 25+ years.",
+        "cta_text": "Get Free Site Assessment"
+    },
+    "metrics": {
+        "estimated_annual_savings": "₹122,400",
+        "co2_reduced_tons": "15.0",
+        "payback_years": "6.0",
+        "solar_panels_needed": "25 - 37",
+        "capacity_kw": "12.5 kW"
+    },
+    "services": [
+        {
+            "title": "Residential Solar Rooftop",
+            "description": "Lower your monthly MSEDCL bill. Perfect for Pune bungalows and cooperative housing societies looking to claim government subsidies and net-metering credits."
+        },
+        {
+            "title": "Commercial & Industrial Solar",
+            "description": "Cut operating costs and claim tax benefits with customized solar installations for commercial complexes, IT offices, or Bhosari-based factories."
+        },
+        {
+            "title": "Solar Water Pumps",
+            "description": "Grid-independent solar pumps for farms and orchards around rural Pune and Mulshi, ensuring reliable watering without power cuts."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Aniket Deshpande",
+            "role": "Homeowner, Kothrud",
+            "quote": "Deccan Solar Tech installed a 5kW solar system for our bungalow in Kothrud. Our MSEDCL bill dropped from ₹8,000 a month to just ₹600. Vijay and his team handled the entire net-metering and subsidy approvals smoothly."
+        },
+        {
+            "name": "Milind Ranade",
+            "role": "Manager, Ranade Precision Components (Bhosari)",
+            "quote": "Commercial electricity bills in Bhosari were a major overhead. Deccan Solar Tech designed and installed a 20kW rooftop solar system. It cut our monthly bills by over 45%, showing excellent return on investment."
+        }
+    ],
+    "faqs": [
+        {
+            "question": "What government subsidy can I get for residential solar in Pune?",
+            "question_localized": "What government subsidy can I get for residential solar in Pune?",
+            "answer": "Under the PM Surya Ghar Muft Bijli Yojana, homeowners can get up to ₹78,000 in central government subsidies for a 3kW system. Our team manages the entire portal registration and subsidy claim process for you."
+        },
+        {
+            "question": "How does the MSEDCL net metering process work?",
+            "question_localized": "How does the MSEDCL net metering process work?",
+            "answer": "We install a bi-directional meter from MSEDCL that tracks energy drawn and excess solar energy exported to the grid. Any surplus energy exported is credited to your monthly bill, effectively zeroing out your charges."
+        }
+    ]
+}

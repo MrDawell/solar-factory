@@ -1,0 +1,169 @@
+{
+    "business_id": "SLR-20260602-214",
+    "business_name": "M2M SOLAR POINT",
+    "slug": "m2m-solar-point",
+    "identity": {
+        "business_name": "M2M SOLAR POINT",
+        "owner_name": "Our Expert Team",
+        "logo_text": "M2M SOLAR"
+    },
+    "contact": {
+        "phone": "076680 26597",
+        "whatsapp": "07668026597",
+        "email": "info@m2m-solar-point.in",
+        "business_hours": "Mon - Sat: 10:00 AM - 7:00 PM"
+    },
+    "location": {
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "address": "A 34/105, Golgadda Road, Near Bus Stand, Ganga Nagar Colony, Adampur, Varanasi, Uttar Pradesh 221001",
+        "map_query": "M2M%20SOLAR%20POINT,%20Varanasi,%20Uttar%20Pradesh"
+    },
+    "branding": {
+        "logo_svg": "<svg class=\"w-8 h-8 flex-shrink-0\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <defs>\n                <linearGradient id=\"grad_5087467041921562980\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n                    <stop offset=\"0%\" stop-color=\"#0b2e4f\" />\n                    <stop offset=\"100%\" stop-color=\"#f59e0b\" />\n                </linearGradient>\n            </defs>\n            <circle cx=\"16\" cy=\"16\" r=\"14\" fill=\"url(#grad_5087467041921562980)\" fill-opacity=\"0.15\" />\n            <circle cx=\"16\" cy=\"16\" r=\"10\" stroke=\"url(#grad_5087467041921562980)\" stroke-width=\"2\" />\n            <circle cx=\"16\" cy=\"16\" r=\"4\" fill=\"#f59e0b\" />\n            <path d=\"M16 2V6M16 26V30M2 16H6M26 16H30M25.9 6.1L23.07 8.93M8.93 23.07L6.1 25.9M25.9 25.9L23.07 23.07M8.93 8.93L6.1 6.1\" stroke=\"url(#grad_5087467041921562980)\" stroke-width=\"1.5\" stroke-linecap=\"round\"/>\n        </svg>",
+        "colors": {
+            "primary": "#0b2e4f",
+            "secondary": "#f59e0b",
+            "primary_container": "#061a30",
+            "secondary_container": "#fffbeb",
+            "background": "#f8fafc",
+            "surface": "#ffffff"
+        },
+        "hero_image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCGYM46nI_IzuF_YX3nN6kxxxhFLnQ4e7WZ0JpgIc9ld0iiZa6XGCfX6r94OHr7mkbe13lrzvew5gRG91dATiC2kCXTlWLmiZn9cEMpZhGuqiIfj5MbVYu455uhmoicVGp9dABF3q5Q1UEFDAEKh2y2Uol-gWoX9owzRjWhQOZVizZckWYMSTlYBWQe_X95tATKLmHDOXAqC-rXo5ROfPjFJe5IrU0q--z3sahOqLniaG9lk8MocwlXHdUcq7yZwVbbPT3OuU93FrV3"
+    },
+    "hero": {
+        "badge": "Rooftop solar in Varanasi",
+        "headline": "Cut Your Varanasi Electricity Bills by Up to 90% with M2M SOLAR POINT",
+        "subheadline": "Small high-ratings solar point for locality.",
+        "background_image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCGYM46nI_IzuF_YX3nN6kxxxhFLnQ4e7WZ0JpgIc9ld0iiZa6XGCfX6r94OHr7mkbe13lrzvew5gRG91dATiC2kCXTlWLmiZn9cEMpZhGuqiIfj5MbVYu455uhmoicVGp9dABF3q5Q1UEFDAEKh2y2Uol-gWoX9owzRjWhQOZVizZckWYMSTlYBWQe_X95tATKLmHDOXAqC-rXo5ROfPjFJe5IrU0q--z3sahOqLniaG9lk8MocwlXHdUcq7yZwVbbPT3OuU93FrV3",
+        "image_alt": "Solar energy installer rooftop in Varanasi"
+    },
+    "trust_signals": [
+        {
+            "icon": "star",
+            "headline": "Well-rated local installer",
+            "description": "Google rating 5.0 with 9 customer reviews in Varanasi."
+        },
+        {
+            "icon": "verified",
+            "headline": "Local trust",
+            "description": "Perfect rating, compact positive review base"
+        },
+        {
+            "icon": "solar_power",
+            "headline": "100+ Systems Installed",
+            "description": "Proven track record of rooftop systems in Uttar Pradesh."
+        }
+    ],
+    "plans": [
+        {
+            "title": "2-3 BHK Flat",
+            "original_bill": "₹4,000",
+            "new_bill": "₹1,400",
+            "savings_pct": 65,
+            "features": [
+                "3kW System Capacity",
+                "Net Metering Documentation Support",
+                "Surya Ghar Subsidy Eligible"
+            ],
+            "cta_text": "Enquire Now",
+            "popular": false
+        },
+        {
+            "title": "Independent House",
+            "original_bill": "₹8,000",
+            "new_bill": "₹2,000",
+            "savings_pct": 75,
+            "features": [
+                "5kW - 8kW Sized for Varanasi roofs",
+                "Grid Tie Inverter with Mobile Monitoring",
+                "Zero Upfront Maintenance Scheme"
+            ],
+            "cta_text": "Get Best Deal",
+            "popular": true
+        },
+        {
+            "title": "Small Shop / Office",
+            "original_bill": "₹15,000",
+            "new_bill": "₹6,750",
+            "savings_pct": 55,
+            "features": [
+                "10kW Rooftop Panel Array",
+                "Commercial Net Meter Setup",
+                "Payback Slabs under PuVVNL Tariff"
+            ],
+            "cta_text": "Commercial Quote",
+            "popular": false
+        }
+    ],
+    "services_section": {
+        "headline": "Tailored Solar Solutions",
+        "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDYc8O--WnGs6bwpYRp2Tq0JiFbtfSVbwIk6hWhqu0BnfJ9IeZnvknZLvdq_YKQRpQdxfqtEpQ4DdFmpFRQ6p2ZCdAPhTdYOsTH9Qk_a_XMuTqlwjHvpAtzbwRT3HejKxhyHHraMfsXr1WO_kBEFCiOtFMLh930awQdlpGlHwaJr_rtQBI8TFfRGJik2go9Jg3JLgwbDLfL-xpByu7498gVym1eGkeArnW0nZt1ETPWTaV6lrFgxMg4sL28CjWtMsH-ZpUNaeseBJrp",
+        "image_alt": "Solar engineer structural assessment check"
+    },
+    "services": [
+        {
+            "title": "Rooftop solar systems",
+            "description": "Design and installation of rooftop solar systems for homes and shops in Varanasi."
+        },
+        {
+            "title": "Home Solar",
+            "description": "Maximize your roof space with high-efficiency residential systems designed for Varanasi homes."
+        },
+        {
+            "title": "Commercial Solar",
+            "description": "Reduce operational costs for offices, warehouses, and shopping complexes across Uttar Pradesh."
+        },
+        {
+            "title": "Clinic & School Solar",
+            "description": "Reliable uninterrupted power for essential community services with zero noise and pollution."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Home rooftop solar setup",
+            "subtitle": "Varanasi System • Lower monthly electricity bills",
+            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBtz5ZHKM1VLtQYXYsR8eSj41P8R8j765GVpFkcsV3-kcfAdOWCiarC2mx9BVtpFKWvAAo3GsmvpIky8PgaC2_iZMEXejLIQ4NoB6AeBjjra-ciCYICIM3nroKB9Wja7B0wP40kN9k9br1YUhuRuEchrscfuJgnLEzWvNfN3nRr3EhGRby0pUVhowfZegf3UeQH1Z3mvdeLLiS9S9Wg-J6SDftFiQmrbHuSqpmgDPGN7xl1jHa9YnhrZPqsTjciFkemrwgbNbAO9Bhm"
+        },
+        {
+            "title": "Small business rooftop plant",
+            "subtitle": "Varanasi System • Reduced daytime power cost",
+            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAOTiyARPLwS66rRHbgxgHTnrB6ldirzmQyamKlgY8ixmzHIxZT6lHEnvw4Tsbrl7bqsvn1LQ2_UTyQ_Gm2sFLUTrFASfbCDqyQUQ1L3oMDLr8OuNkr_jwE4vZW0GRZ1SsUfepdRK7g5g5W2ZXV7PuJIha90wE-oZJBrtKQFjy5GKVsuTc0_VZHfODdPf-xD4jaOC05zyT_8T-YkIoQPx7KXoGLS1EISeOAV81K5veV5P5pWAovMgGX2eSc7LyGY3Y-Jj3y_hYJmOvB"
+        }
+    ],
+    "faq": [
+        {
+            "question": "How does the PM Surya Ghar Muft Bijli Yojana subsidy work?",
+            "answer": "PM Surya Ghar Muft Bijli Yojana offers central financial assistance for eligible residential rooftop solar systems. Subsidy slabs depend on system size and sanctioned load. We help you understand the current scheme details and apply through the official portal where applicable."
+        },
+        {
+            "question": "Will you help with net metering paperwork?",
+            "answer": "Yes, we guide you through the net metering process with the local DISCOM in Uttar Pradesh, including basic application support and documentation guidance."
+        },
+        {
+            "question": "How long do solar panels typically last?",
+            "answer": "Most quality solar panels come with performance warranties of around 25 years. Panels can continue generating after that, with gradual reduction in output over time."
+        },
+        {
+            "question": "Do solar panels work during monsoon and cloudy days?",
+            "answer": "Solar panels generate power from light, not heat. Output is lower on very cloudy or rainy days, but systems are designed considering annual sunshine so that overall yearly generation remains strong."
+        },
+        {
+            "question": "What kind of maintenance do rooftop solar systems need?",
+            "answer": "Basic maintenance usually means periodic cleaning of the panels and occasional checks of wiring, mounting structures and inverter status. We can guide you on simple cleaning routines and service options."
+        },
+        {
+            "question": "What affects the payback period for rooftop solar?",
+            "answer": "Payback depends on your electricity tariff, system size, consumption pattern, subsidy eligibility and financing, if any. We give an estimated payback range after reviewing your recent electricity bills."
+        }
+    ],
+    "reputation": {
+        "rating": 5.0,
+        "reviews_count": "9+"
+    },
+    "calculator_config": {
+        "residential_factor": 1200,
+        "commercial_factor": 1000,
+        "factory_factor": 800
+    }
+}
