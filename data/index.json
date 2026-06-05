@@ -286,5 +286,221 @@
         "batch_date": "2026-06-02",
         "status": "SUCCESS",
         "path": "data/2026-06-02/SLR-20260602-003"
+    },
+    "SLR-20260606-001": {
+        "business_name": "Rathi Solar",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-001"
+    },
+    "SLR-20260606-002": {
+        "business_name": "SUNVIBES ENTERPRISES PRIVATE LIMITED",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-002"
+    },
+    "SLR-20260606-003": {
+        "business_name": "Surya Solar Green Maintenance and Consultancy",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-003"
+    },
+    "SLR-20260606-004": {
+        "business_name": "Kalindi Solar Solutions PVT. LTD.",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-004"
+    },
+    "SLR-20260606-005": {
+        "business_name": "URJA SOLAR",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-005"
+    },
+    "SLR-20260606-006": {
+        "business_name": "Y N SOLAR ENERGY PRIVATE LIMITED",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-006"
+    },
+    "SLR-20260606-007": {
+        "business_name": "Rishabh Solar enterprises indore",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-007"
+    },
+    "SLR-20260606-008": {
+        "business_name": "GreenTech Energy Solar solution",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-008"
+    },
+    "SLR-20260606-009": {
+        "business_name": "SURYA SOLAR",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-009"
+    },
+    "SLR-20260606-010": {
+        "business_name": "Brighter World Engineering Works (SOLAR DIVISION)",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-010"
+    },
+    "SLR-20260606-011": {
+        "business_name": "KTech Solar Energy Solutions",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-011"
+    },
+    "SLR-20260606-012": {
+        "business_name": "Eminence Solar Solutions",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-012"
+    },
+    "SLR-20260606-013": {
+        "business_name": "Waaree Solar Power Center Indore - Vruddhi Energies",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-013"
+    },
+    "SLR-20260606-014": {
+        "business_name": "Bright Energies - Solar",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-014"
+    },
+    "SLR-20260606-015": {
+        "business_name": "Indore solar hub",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-015"
+    },
+    "SLR-20260606-016": {
+        "business_name": "Solar Distributors",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-016"
+    },
+    "SLR-20260606-017": {
+        "business_name": "ARIHANT SOLAR SOLUTIONS",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-017"
+    },
+    "SLR-20260606-018": {
+        "business_name": "SolMate Solar Solution",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-018"
+    },
+    "SLR-20260606-019": {
+        "business_name": "SIDDHESH SOLAR PANELS AND FABRICATIONS",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-019"
+    },
+    "SLR-20260606-020": {
+        "business_name": "EG Solar",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-020"
+    },
+    "SLR-20260606-021": {
+        "business_name": "M.N. Enterprises",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-021"
+    },
+    "SLR-20260606-022": {
+        "business_name": "Akshay Energy & Engineering Consultant",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-022"
+    },
+    "SLR-20260606-023": {
+        "business_name": "INDORE GREEN ENERGY SOLAR SYSTEM",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-023"
+    },
+    "SLR-20260606-024": {
+        "business_name": "SEGIS SOLAR WORLD Business Developer",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-024"
+    },
+    "SLR-20260606-025": {
+        "business_name": "TERRALIGHT SOLAR INDORE",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-025"
+    },
+    "SLR-20260606-026": {
+        "business_name": "AKSHAY Trading [Wholesaler]",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-026"
+    },
+    "SLR-20260606-027": {
+        "business_name": "VR POWER SOLUTION",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "batch_date": "2026-06-06",
+        "status": "SUCCESS",
+        "path": "data/2026-06-06/SLR-20260606-027"
     }
 }

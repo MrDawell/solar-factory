@@ -1,0 +1,157 @@
+{
+    "business_id": "SLR-20260606-026",
+    "business_name": "AKSHAY Trading [Wholesaler]",
+    "slug": "akshay-trading-wholesaler",
+    "identity": {
+        "business_name": "AKSHAY Trading [Wholesaler]",
+        "owner_name": "Our Expert Team",
+        "logo_text": "AKSHAY Trading"
+    },
+    "contact": {
+        "phone": "+91 9009509565",
+        "whatsapp": "919009509565",
+        "email": "contact@akshay-trading-wholesaler.in",
+        "business_hours": "Mon - Sat: 10:00 AM - 7:00 PM"
+    },
+    "location": {
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "address": "F4 , Vasant Plaza, 4/5 Nayapura",
+        "map_query": "AKSHAY+Trading+%5BWholesaler%5D+Indore"
+    },
+    "branding": {
+        "logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" class=\"w-8 h-8\"><circle cx=\"16\" cy=\"16\" r=\"14\" fill=\"#0284c7\"/><path d=\"M8 18h16L16 6z\" fill=\"#ffffff\"/></svg>",
+        "colors": {
+            "primary": "#0284c7",
+            "secondary": "#22c55e",
+            "primary_container": "#0369a1",
+            "secondary_container": "#bbf7d0",
+            "background": "#f8fafc",
+            "surface": "#ffffff"
+        },
+        "hero_image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCGYM46nI_IzuF_YX3nN6kxxxhFLnQ4e7WZ0JpgIc9ld0iiZa6XGCfX6r94OHr7mkbe13lrzvew5gRG91dATiC2kCXTlWLmiZn9cEMpZhGuqiIfj5MbVYu455uhmoicVGp9dABF3q5Q1UEFDAEKh2y2Uol-gWoX9owzRjWhQOZVizZckWYMSTlYBWQe_X95tATKLmHDOXAqC-rXo5ROfPjFJe5IrU0q--z3sahOqLniaG9lk8MocwlXHdUcq7yZwVbbPT3OuU93FrV3"
+    },
+    "hero": {
+        "badge": "MNRE Approved Partner",
+        "headline": "Cut Your Indore Electricity Bills by Up to 90% with AKSHAY Trading [Wholesaler]",
+        "subheadline": "Premium solar systems with government subsidy support. Expert installation serving Indore, Vijay Nagar, Bhanwarkuan, and surrounding areas.",
+        "background_image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCGYM46nI_IzuF_YX3nN6kxxxhFLnQ4e7WZ0JpgIc9ld0iiZa6XGCfX6r94OHr7mkbe13lrzvew5gRG91dATiC2kCXTlWLmiZn9cEMpZhGuqiIfj5MbVYu455uhmoicVGp9dABF3q5Q1UEFDAEKh2y2Uol-gWoX9owzRjWhQOZVizZckWYMSTlYBWQe_X95tATKLmHDOXAqC-rXo5ROfPjFJe5IrU0q--z3sahOqLniaG9lk8MocwlXHdUcq7yZwVbbPT3OuU93FrV3",
+        "image_alt": "Rooftop solar installation in Indore"
+    },
+    "trust_signals": [
+        {
+            "icon": "solar_power",
+            "headline": "100+ Systems Installed",
+            "description": "Proven track record of powering homes and businesses across Madhya Pradesh."
+        },
+        {
+            "icon": "workspace_premium",
+            "headline": "5+ Years Experience",
+            "description": "Deep technical expertise in MNRE guidelines and local net-metering processes."
+        },
+        {
+            "icon": "support_agent",
+            "headline": "Local Service Team",
+            "description": "Based in Indore for lightning-fast maintenance and on-site support."
+        }
+    ],
+    "plans": [
+        {
+            "title": "2-3 BHK Flat",
+            "original_bill": "₹4,000",
+            "new_bill": "₹1,600",
+            "savings_pct": 60,
+            "features": [
+                "3kW System Capacity",
+                "Net Metering Paperwork Included",
+                "Central Subsidy Assistance"
+            ],
+            "cta_text": "Enquire Now",
+            "popular": false
+        },
+        {
+            "title": "Independent House",
+            "original_bill": "₹8,000",
+            "new_bill": "₹2,400",
+            "savings_pct": 70,
+            "features": [
+                "[House Capacity]kW System sizing for Indore",
+                "Whole House Power Backup Integration",
+                "Mobile System Monitoring App Support"
+            ],
+            "cta_text": "Get Best Deal",
+            "popular": true
+        },
+        {
+            "title": "Small Shop",
+            "original_bill": "₹15,000",
+            "new_bill": "₹7,500",
+            "savings_pct": 50,
+            "features": [
+                "10kW High-Efficiency Array",
+                "Commercial Grid Tie Approvals",
+                "Projected Payback in 3.5 Years"
+            ],
+            "cta_text": "Commercial Quote",
+            "popular": false
+        }
+    ],
+    "services_section": {
+        "headline": "Tailored Solar Solutions",
+        "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDYc8O--WnGs6bwpYRp2Tq0JiFbtfSVbwIk6hWhqu0BnfJ9IeZnvknZLvdq_YKQRpQdxfqtEpQ4DdFmpFRQ6p2ZCdAPhTdYOsTH9Qk_a_XMuTqlwjHvpAtzbwRT3HejKxhyHHraMfsXr1WO_kBEFCiOtFMLh930awQdlpGlHwaJr_rtQBI8TFfRGJik2go9Jg3JLgwbDLfL-xpByu7498gVym1eGkeArnW0nZt1ETPWTaV6lrFgxMg4sL28CjWtMsH-ZpUNaeseBJrp",
+        "image_alt": "Solar EPC service array inspection in Indore"
+    },
+    "services": [
+        {
+            "title": "Home Solar",
+            "description": "Maximize your roof space with high-efficiency residential systems designed for Indore properties."
+        },
+        {
+            "title": "Commercial Solar",
+            "description": "Reduce operational costs for offices, warehouses, and shopping complexes across Madhya Pradesh."
+        },
+        {
+            "title": "School/Clinic Solar",
+            "description": "Reliable uninterrupted power for essential community services with zero noise and pollution."
+        },
+        {
+            "title": "Annual Maintenance",
+            "description": "Regular cleaning, shading reports, and technical diagnostics to ensure peak annual generation."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Vijay Nagar Residence Project",
+            "subtitle": "5kW Residential System • Monthly Savings: ₹5,600",
+            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBtz5ZHKM1VLtQYXYsR8eSj41P8R8j765GVpFkcsV3-kcfAdOWCiarC2mx9BVtpFKWvAAo3GsmvpIky8PgaC2_iZMEXejLIQ4NoB6AeBjjra-ciCYICIM3nroKB9Wja7B0wP40kN9k9br1YUhuRuEchrscfuJgnLEzWvNfN3nRr3EhGRby0pUVhowfZegf3UeQH1Z3mvdeLLiS9S9Wg-J6SDftFiQmrbHuSqpmgDPGN7xl1jHa9YnhrZPqsTjciFkemrwgbNbAO9Bhm"
+        },
+        {
+            "title": "Bhanwarkuan Commercial installation",
+            "subtitle": "10kW Shop System • Monthly Savings: ₹7,500",
+            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAOTiyARPLwS66rRHbgxgHTnrB6ldirzmQyamKlgY8ixmzHIxZT6lHEnvw4Tsbrl7bqsvn1LQ2_UTyQ_Gm2sFLUTrFASfbCDqyQUQ1L3oMDLr8OuNkr_jwE4vZW0GRZ1SsUfepdRK7g5g5W2ZXV7PuJIha90wE-oZJBrtKQFjy5GKVsuTc0_VZHfODdPf-xD4jaOC05zyT_8T-YkIoQPx7KXoGLS1EISeOAV81K5veV5P5pWAovMgGX2eSc7LyGY3Y-Jj3y_hYJmOvB"
+        }
+    ],
+    "faq": [
+        {
+            "question": "How much subsidy can I get?",
+            "answer": "Under the PM-Surya Ghar Muft Bijli Yojana, residential consumers in Indore can get up to ₹78,000 subsidy for a 3kW system. Our team handles 100% of the net-metering and subsidy applications."
+        },
+        {
+            "question": "What is the cost of installation?",
+            "answer": "Costs vary based on system size and panel quality. Typically, a 3kW system starts from ₹1.5 Lakhs (before subsidy) in Madhya Pradesh. We offer easy zero-cost EMI options."
+        },
+        {
+            "question": "Do solar panels work in rainy season?",
+            "answer": "Yes! Panels generate power from solar light, not heat. While generation is lower on heavy cloudy days, modern Tier-1 monocrystalline panels generate substantial power in the monsoon seasons of Madhya Pradesh."
+        }
+    ],
+    "reputation": {
+        "rating": "4.2",
+        "reviews_count": "41+"
+    },
+    "calculator_config": {
+        "residential_factor": 1200,
+        "commercial_factor": 1000,
+        "factory_factor": 800
+    }
+}

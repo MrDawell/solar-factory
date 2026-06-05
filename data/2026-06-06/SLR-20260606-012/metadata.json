@@ -1,0 +1,25 @@
+{
+    "business_id": "SLR-20260606-012",
+    "business_name": "Eminence Solar Solutions",
+    "slug": "eminence-solar-solutions",
+    "lead_source": "indore-solar-leads.json",
+    "date_created": "2026-06-05T19:47:53.256096",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-05T19:47:53.256096",
+            "action": "IMPORT_LEAD",
+            "details": "Imported Indore enriched JSON"
+        },
+        {
+            "timestamp": "2026-06-05T19:47:53.256096",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html using template.html"
+        }
+    ]
+}

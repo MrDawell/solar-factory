@@ -1,0 +1,25 @@
+{
+    "business_id": "SLR-20260606-003",
+    "business_name": "Surya Solar Green Maintenance and Consultancy",
+    "slug": "surya-solar-green-maintenance-and-consultancy",
+    "lead_source": "indore-solar-leads.json",
+    "date_created": "2026-06-05T19:47:52.438252",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-05T19:47:52.438252",
+            "action": "IMPORT_LEAD",
+            "details": "Imported Indore enriched JSON"
+        },
+        {
+            "timestamp": "2026-06-05T19:47:52.438252",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html using template.html"
+        }
+    ]
+}
