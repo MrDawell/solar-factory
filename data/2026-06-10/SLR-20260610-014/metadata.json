@@ -1,0 +1,25 @@
+{
+    "business_id": "SLR-20260610-014",
+    "business_name": "Natasha Solar Electron",
+    "slug": "natasha-solar-electron",
+    "lead_source": "jodhpur-solar-leads.json",
+    "date_created": "2026-06-09T19:41:07.164332",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-09T19:41:07.164332",
+            "action": "IMPORT_LEAD",
+            "details": "Imported Jodhpur enriched JSON"
+        },
+        {
+            "timestamp": "2026-06-09T19:41:07.164332",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html using template.html"
+        }
+    ]
+}

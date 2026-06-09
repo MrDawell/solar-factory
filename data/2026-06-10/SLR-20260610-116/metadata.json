@@ -1,0 +1,25 @@
+{
+    "business_id": "SLR-20260610-116",
+    "business_name": "PN Enterprises",
+    "slug": "pn-enterprises",
+    "lead_source": "pratapgarh-solar-leads.json",
+    "date_created": "2026-06-09T19:41:09.537746",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-09T19:41:09.537746",
+            "action": "IMPORT_LEAD",
+            "details": "Imported Pratapgarh enriched JSON"
+        },
+        {
+            "timestamp": "2026-06-09T19:41:09.537746",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html using template.html"
+        }
+    ]
+}

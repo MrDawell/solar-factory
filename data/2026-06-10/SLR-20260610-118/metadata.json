@@ -1,0 +1,25 @@
+{
+    "business_id": "SLR-20260610-118",
+    "business_name": "Hayat Solar & Eng. Works",
+    "slug": "hayat-solar-eng-works",
+    "lead_source": "pratapgarh-solar-leads.json",
+    "date_created": "2026-06-09T19:41:09.661040",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-09T19:41:09.661040",
+            "action": "IMPORT_LEAD",
+            "details": "Imported Pratapgarh enriched JSON"
+        },
+        {
+            "timestamp": "2026-06-09T19:41:09.661040",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html using template.html"
+        }
+    ]
+}

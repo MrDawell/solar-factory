@@ -502,5 +502,421 @@
         "batch_date": "2026-06-06",
         "status": "SUCCESS",
         "path": "data/2026-06-06/SLR-20260606-027"
+    },
+    "SLR-20260610-001": {
+        "business_name": "GrIndMech Solar Jodhpur",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-001"
+    },
+    "SLR-20260610-002": {
+        "business_name": "Bhatnagar Solar Enterprise",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-002"
+    },
+    "SLR-20260610-003": {
+        "business_name": "Satyam Solar Energy",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-003"
+    },
+    "SLR-20260610-004": {
+        "business_name": "Solar Energy Jodhpur",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-004"
+    },
+    "SLR-20260610-005": {
+        "business_name": "Kross City Solar",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-005"
+    },
+    "SLR-20260610-006": {
+        "business_name": "Sunsolar Techno",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-006"
+    },
+    "SLR-20260610-007": {
+        "business_name": "Solar-Nakoda Solar Solutions",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-007"
+    },
+    "SLR-20260610-008": {
+        "business_name": "Shree Nath Solar Jodhpur",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-008"
+    },
+    "SLR-20260610-009": {
+        "business_name": "Marudhara Solar and Distributors",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-009"
+    },
+    "SLR-20260610-010": {
+        "business_name": "SOLAR - OJAS RENEWABLES",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-010"
+    },
+    "SLR-20260610-011": {
+        "business_name": "Arunoday Solar",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-011"
+    },
+    "SLR-20260610-012": {
+        "business_name": "Anmol Solar",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-012"
+    },
+    "SLR-20260610-013": {
+        "business_name": "Infinity solar solution jodhpur",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-013"
+    },
+    "SLR-20260610-014": {
+        "business_name": "Natasha Solar Electron",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-014"
+    },
+    "SLR-20260610-015": {
+        "business_name": "KANKARIA SOLAR SYSTEMS",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-015"
+    },
+    "SLR-20260610-016": {
+        "business_name": "Krishna Industrial Automation & Solar",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-016"
+    },
+    "SLR-20260610-017": {
+        "business_name": "Shri Bhadariya Rai Solar Services",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-017"
+    },
+    "SLR-20260610-018": {
+        "business_name": "Future Energy Jodhpur",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-018"
+    },
+    "SLR-20260610-019": {
+        "business_name": "INFINITY ENERGY SOLUTION",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-019"
+    },
+    "SLR-20260610-020": {
+        "business_name": "Choudhary Solar Energy & Hi-Tech",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-020"
+    },
+    "SLR-20260610-021": {
+        "business_name": "Raju Battery & Solar System",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-021"
+    },
+    "SLR-20260610-022": {
+        "business_name": "Suncity Power Corporation",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-022"
+    },
+    "SLR-20260610-023": {
+        "business_name": "DYNAMIC SOLAR",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-023"
+    },
+    "SLR-20260610-024": {
+        "business_name": "GANPATI SOLAR",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-024"
+    },
+    "SLR-20260610-025": {
+        "business_name": "Anant Solar",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-025"
+    },
+    "SLR-20260610-026": {
+        "business_name": "Radiant flux - Solar energy comapny",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-026"
+    },
+    "SLR-20260610-027": {
+        "business_name": "SUN POWER SOLUTIONS JODHPUR",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-027"
+    },
+    "SLR-20260610-028": {
+        "business_name": "Jiya solar washing complete solutions",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-028"
+    },
+    "SLR-20260610-029": {
+        "business_name": "Voltpower Solar Energy",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-029"
+    },
+    "SLR-20260610-030": {
+        "business_name": "JAIPAL GREEN ENERGY - JGE SOLAR",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-030"
+    },
+    "SLR-20260610-101": {
+        "business_name": "AVNEESH ELECTRONIC & BATTERY SHOP",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-101"
+    },
+    "SLR-20260610-102": {
+        "business_name": "Shan batteries and Solar solutions",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-102"
+    },
+    "SLR-20260610-103": {
+        "business_name": "Shri Ganesh Solar Agency",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-103"
+    },
+    "SLR-20260610-104": {
+        "business_name": "NIRMAL ELECTRONIC SOLAR SYSTEM",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-104"
+    },
+    "SLR-20260610-105": {
+        "business_name": "Gajadhar Krishna Enterprise",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-105"
+    },
+    "SLR-20260610-106": {
+        "business_name": "JAI AMBE SOLAR ENERGY",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-106"
+    },
+    "SLR-20260610-107": {
+        "business_name": "Bagga Agencies - Inverter Battery",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-107"
+    },
+    "SLR-20260610-108": {
+        "business_name": "Rama Enterprises & Solar point",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-108"
+    },
+    "SLR-20260610-109": {
+        "business_name": "APOLLO SOLAR SOLUTIONS",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-109"
+    },
+    "SLR-20260610-110": {
+        "business_name": "INFO SOLAR HUB",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-110"
+    },
+    "SLR-20260610-111": {
+        "business_name": "Apollo Batteries & Akshay Urja",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-111"
+    },
+    "SLR-20260610-112": {
+        "business_name": "Vedansh Enterprises, UTL Solar",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-112"
+    },
+    "SLR-20260610-113": {
+        "business_name": "Ekansh Solar Enterprises",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-113"
+    },
+    "SLR-20260610-114": {
+        "business_name": "St power manufacturer & wholesaler",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-114"
+    },
+    "SLR-20260610-115": {
+        "business_name": "J.K Battery & Electronics",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-115"
+    },
+    "SLR-20260610-116": {
+        "business_name": "PN Enterprises",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-116"
+    },
+    "SLR-20260610-117": {
+        "business_name": "Shree Balaji Battery & Solar Solution",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-117"
+    },
+    "SLR-20260610-118": {
+        "business_name": "Hayat Solar & Eng. Works",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-118"
+    },
+    "SLR-20260610-119": {
+        "business_name": "SHRESTH SOLAR AGENCY",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-119"
+    },
+    "SLR-20260610-120": {
+        "business_name": "Abhinav Power Point & Electronics",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-120"
+    },
+    "SLR-20260610-121": {
+        "business_name": "Tayal Electricals",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-121"
+    },
+    "SLR-20260610-122": {
+        "business_name": "UTL Solar Shoppe - M/S Marut Nandan",
+        "city": "Pratapgarh",
+        "state": "Uttar Pradesh",
+        "batch_date": "2026-06-10",
+        "status": "SUCCESS",
+        "path": "data/2026-06-10/SLR-20260610-122"
     }
 }

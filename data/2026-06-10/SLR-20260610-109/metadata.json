@@ -1,0 +1,25 @@
+{
+    "business_id": "SLR-20260610-109",
+    "business_name": "APOLLO SOLAR SOLUTIONS",
+    "slug": "apollo-solar-solutions",
+    "lead_source": "pratapgarh-solar-leads.json",
+    "date_created": "2026-06-09T19:41:08.953233",
+    "template_version": "template.html",
+    "status": {
+        "enrichment": "SUCCESS",
+        "compilation": "SUCCESS",
+        "whatsapp_outreach": "PENDING"
+    },
+    "history": [
+        {
+            "timestamp": "2026-06-09T19:41:08.953233",
+            "action": "IMPORT_LEAD",
+            "details": "Imported Pratapgarh enriched JSON"
+        },
+        {
+            "timestamp": "2026-06-09T19:41:08.953233",
+            "action": "COMPILE_WEBSITE",
+            "details": "Compiled index.html using template.html"
+        }
+    ]
+}
